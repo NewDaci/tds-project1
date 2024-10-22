@@ -1,5 +1,4 @@
 login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-huggingface,Hugging Face,,NYC + Paris,,,The AI community building the future.,259,37843,0,2017-02-12T11:20:28Z
 brunosimon,Bruno Simon,Creative Journey,Paris,,True,,79,18718,0,2013-09-11T23:44:41Z
 fabpot,Fabien Potencier,Symfony/Platform.sh/Blackfire,"Paris, France",fabien@symfony.com,,"Founder and project lead at Symfony
 CPO at Platform.sh
