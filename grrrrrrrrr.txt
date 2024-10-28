@@ -1,0 +1,35 @@
+Total users who are in Shanghai and have more than 200 followers: 741
+https://api.github.com/search/users?q=location:Shanghai followers:>200&per_page=100&page=1
+printing length of all users after scrapping page no.: 1 100
+printing length of total users after scrapping page no.: 1 741
+printing 100 page no.: 1 100
+https://api.github.com/search/users?q=location:Shanghai followers:>200&per_page=100&page=1
+printing length of all users after scrapping page no.: 2 200
+printing length of total users after scrapping page no.: 2 741
+printing 100 page no.: 2 100
+https://api.github.com/search/users?q=location:Shanghai followers:>200&per_page=100&page=1
+printing length of all users after scrapping page no.: 3 300
+printing length of total users after scrapping page no.: 3 741
+printing 100 page no.: 3 100
+https://api.github.com/search/users?q=location:Shanghai followers:>200&per_page=100&page=1
+printing length of all users after scrapping page no.: 4 400
+printing length of total users after scrapping page no.: 4 741
+printing 100 page no.: 4 100
+https://api.github.com/search/users?q=location:Shanghai followers:>200&per_page=100&page=1
+printing length of all users after scrapping page no.: 5 500
+printing length of total users after scrapping page no.: 5 741
+printing 100 page no.: 5 100
+https://api.github.com/search/users?q=location:Shanghai followers:>200&per_page=100&page=1
+printing length of all users after scrapping page no.: 6 600
+printing length of total users after scrapping page no.: 6 741
+printing 100 page no.: 6 100
+https://api.github.com/search/users?q=location:Shanghai followers:>200&per_page=100&page=1
+printing length of all users after scrapping page no.: 7 700
+printing length of total users after scrapping page no.: 7 741
+printing 100 page no.: 7 100
+https://api.github.com/search/users?q=location:Shanghai followers:>200&per_page=100&page=1
+printing length of all users after scrapping page no.: 8 800
+printing length of total users after scrapping page no.: 8 741
+printing 100 page no.: 8 100
+page no till scraped: 9
+all users length: 800

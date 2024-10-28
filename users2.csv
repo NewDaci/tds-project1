@@ -1,0 +1,53 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+huggingface,Hugging Face,,NYC + Paris,,false,The AI community building the future.,260,38062,0,2017-02-12T11:20:28Z
+brunosimon,Bruno Simon,CREATIVE JOURNEY,Paris,,true,,79,18739,0,2013-09-11T23:44:41Z
+fabpot,Fabien Potencier,SYMFONY/PLATFORM.SH/BLACKFIRE,"Paris, France",fabien@symfony.com,false,"Founder and project lead at Symfony
+CPO at Platform.sh
+",77,13245,0,2009-01-17T13:42:51Z
+Charles-Chrismann,Charles Chrismann,INSTITUT DE L'INTERNET ET DU MULTIMÉDIA (IIM),"Paris, La Défense",,false,Étudiant en 3e année de Développement Web à l'IIM ,35,11935,218329,2021-01-28T14:18:01Z
+posva,Eduardo San Martin Morote,FREELANCE,Paris ,,true,"Member of the @vuejs core team
+Speaker, trainer.
+From 🇪🇸, lives in 🇫🇷
+",323,5892,58,2011-03-11T14:29:46Z
+ogrisel,Olivier Grisel,PROBABL.AI,"Paris, France",olivier.grisel@ensta.org,false,Machine Learning Engineer at :probabl. and core contributor to scikit-learn.,208,4746,116,2009-05-27T09:03:40Z
+florent37,Florent CHAMPIGNY,,"Paris, France",champigny.florent@gmail.com,false,,128,4117,66,2013-10-23T09:45:34Z
+juliangarnier,Julian Garnier,HTTPS://ANIMEJS.COM,Paris,julian@animejs.com,false,Making Anime.js,19,3786,6,2011-12-16T20:40:13Z
+lewagon,Le Wagon,,"Paris, London, Berlin & more",contact@lewagon.com,false,Coding School bringing Technical Skills to Creative People,175,3633,0,2013-09-16T13:20:52Z
+ocornut,omar,DISCO HELLO / LIZARDCUBE,"Paris, France",,true,,14,3411,2,2014-07-21T14:23:24Z
+merveenoyan,Merve Noyan,HUGGINGFACE,Paris,merve@huggingface.co,false,builds at 🤗,58,3181,140,2019-07-22T10:17:00Z
+oliviertassinari,Olivier Tassinari,MUI,"Paris, France",,false,"CEO, co-founder at @mui • co-creator of Material UI • studied @TelecomParis • ex @doctolib",158,3097,103,2013-01-01T23:34:22Z
+HoussemDellai,Houssem Dellai,MICROSOFT,Paris,houssem.dellai@microsoft.com,true,"Engineer at Microsoft
+(Azure / Kubernetes / DevOps / Terraform)
+Previously Microsoft MVP",211,3048,19,2014-01-30T21:07:48Z
+cyrildiagne,Cyril Diagne,,Paris - France,,false,AI Indie Hacker,81,2550,216,2009-10-25T10:39:50Z
+gwen001,Gwendal Le Coguic,10DEGRES,Paris - France,,true,"Bug hunter, tool maker.",58,2493,11,2013-08-30T15:26:42Z
+mblondel,Mathieu Blondel,GOOGLE DEEPMIND,"Paris, France",,false,Research scientist,20,2490,18,2010-03-30T21:54:10Z
+BartoszMilewski,Bartosz Milewski,PROGRAMMING CAFE,"Paris, France",bartosz@relisoft.com,false,Author of Category Theory for Programmers,35,2320,0,2011-05-20T00:14:02Z
+StanGirard,Stan Girard,QUIVRHQ,Paris,,false,Creator & Co-Founder @ Quivr.app,68,2302,17,2016-05-27T19:20:37Z
+LaurentMazare,Laurent Mazare,,Paris,,false,CTO at Kyutai,90,2197,1,2011-09-10T20:09:57Z
+stof,Christophe Coevoet,INCENTEEV,Paris,,false,,675,2091,39,2010-10-14T13:56:42Z
+rom1504,Romain Beaumont,GOOGLE,Paris,romain.rom1@gmail.com,true,"Interested in machine learning (computer vision, natural language processing, deep learning), node.js (network, bots, web), and programming in general",214,2071,46,2012-09-14T12:06:33Z
+donho,Don HO,NOTEPAD++ PROJECT,Paris France,don.h@free.fr,true,"GitHub is my Tinder,
+to flirt with developers,
+by using the romantic source code poetry.
+",9,1995,0,2009-05-31T00:41:16Z
+gregberge,Greg Bergé,ARGOS,"Paris, France",greg@smooth-code.com,false,"❤️ React & JavaScript — Teacher, speaker.
+My open source projects are trusted by thousand developers around the world.",130,1990,109,2010-05-06T08:31:36Z
+strapi,strapi,,"Paris, France",hi@strapi.io,false,Build powerful back-end with no effort.,79,1981,0,2016-06-11T11:07:55Z
+nicolas-grekas,Nicolas Grekas,SYMFONYCORP,"Paris, France",,false,"Submitting features and bug(fixes) @symfony, to make it always faster, easier to use and better designed, uncompromising.
+@ESPCI_Alumni engineer.",108,1958,5,2010-04-14T09:44:17Z
+gre,@greweb,LEDGERHQ,"Paris, France",,false,👾 👨‍👩‍👦‍👦 👨🏻‍🌾 🌱 🀄️ 🍷 🥖,321,1897,59,2010-02-26T13:44:19Z
+emilwallner,Emil Wallner,PALETTE,Paris | Nyköping,w@llner.co,true,internet-educated. into machine learning and colorization. maker of palette.fm. former resident at  the google arts & culture lab.,20,1884,435,2015-05-21T10:43:50Z
+4ian,Florian Rival,GDEVELOPAPP,"Paris, France",,false,Making game building accessible to everyone with @GDevelopApp: the open-source and no-code game engine. Previously: gaming @google.,61,1852,11,2011-12-22T14:27:39Z
+robbiebarrat,Robbie Barrat,N/A,"Paris, France",robbiebarrat@gmail.com,true,Artist working with new media + AI,19,1849,39,2015-03-03T00:01:03Z
+slorber,Sébastien Lorber,THIS WEEK IN REACT,Paris,,false,"Editor of ThisWeekInReact.com, Docusaurus maintainer",304,1832,30,2011-04-24T22:50:51Z
+arcanis,Maël Nison,DATADOG,"Paris, France",,false,"Lead maintainer for @yarnpkg 📦🧶
+Staff DevX @DataDog, ex @facebook, @sketchfab, ...",316,1831,0,2011-09-09T07:17:46Z
+FaridSafi,Farid Safi,LEREACTEUR,"Paris, France",,true,"Co-Founder of Le Reacteur Coding Bootcamp
+#JavaScript #React #React-Native",69,1783,109,2010-09-05T14:00:06Z
+GitSquared,Gabriel Saillard,CARBONFACT,"Paris, France",gabriel@saillard.dev,false,i dream and write code / engineering @carbonfact ,22,1760,176,2016-12-10T17:39:02Z
+angristan,Stanislas,BACKEND ENGINEER @QONTO,Paris,,true,tired of computers,230,1758,521,2015-03-28T21:26:45Z
+Papillard,Boris Paillard,LE WAGON,Paris,boris.paillard@gmail.com,false,CEO @lewagon ,73,1686,6,2012-10-02T12:15:56Z
+AEFaour,Anas FAOUR,,Paris,,false,Ingénieur d'Etude et Développement Informatique,50,1547,19,2018-11-11T12:33:08Z
+LysandreJik,Lysandre Debut,HUGGING FACE,Paris,hi@lysand.re,false,Head of OSS @huggingface. Open Source developer.,43,1530,65,2017-08-05T17:42:03Z
+anisayari,Anis AYARI,,Paris Area,,true,Skynet Guru.,92,1511,49,2015-01-03T13:11:38Z
