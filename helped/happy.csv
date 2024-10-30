@@ -1,0 +1,634 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+vczh,,,"Seattle, WA, USA",,false,"Main contributor of @vczh-libraries  .
+
+Microsoft github account: https://github.com/ZihanChen-MSFT",12,17513,11,2011-05-07T08:30:48Z
+bradfitz,Brad Fitzpatrick,TAILSCALE,Seattle,brad@danga.com,false,"LiveJournal, memcached, OpenID, @golang team (2010-2020).
+Currently making WireGuard & weird network tricks easier and more magical @Tailscale.",141,12105,41,2008-03-09T05:08:14Z
+munificent,Bob Nystrom,"GOOGLE, ON @DART-LANG","Seattle, WA",,false,"Programming language developer, ex-game developer, UI nerd, author of ""Game Programming Patterns"" and ""Crafting Interpreters"".",49,9917,144,2009-01-13T15:37:46Z
+tenderlove,Aaron Patterson,SHOPIFY,Seattle,,false,💘💙💜💗💚❤💓💛💚💗,356,9446,27,2008-03-14T20:04:17Z
+ahmetb,Ahmet Alp Balkan,LINKEDIN,"Seattle, WA",github@ahmet.im,true,Working on compute orchestration with Kubernetes at large fleets.,221,8212,34,2009-11-28T14:59:59Z
+koush,Koushik Dutta,CLOCKWORKMOD,"Seattle, WA",,false,,359,8210,6,2009-04-15T04:08:21Z
+jtleek,Jeff L.,,"Seattle, WA",,false,,112,7301,7,2012-03-24T18:16:43Z
+awslabs,Amazon Web Services - Labs,,"Seattle, WA",,false,AWS Labs,855,7285,0,2013-01-17T19:11:21Z
+TheLarkInn,Sean Larkin,MICROSOFT @MICROSOFTEDGE @WEBPACK @WEBPACK-CONTRIB @ANGULAR,"Seattle, WA",selarkin@microsoft.com,true,"Software Engineer @microsoft. Javascript, webpack, Typescript. @webpack core team. @angular cli core team. working on rushstack, heft, and OneDrive/SharePoint",265,6403,71,2013-01-28T17:11:47Z
+zpao,Paul O’Shannessy,FACEBOOK,"Seattle, WA",paul@oshannessy.com,false,I do open source things at @facebook.,161,4886,24,2008-04-25T04:38:22Z
+anvaka,Andrei Kashcha,,Seattle ,anvaka@gmail.com,false,I love graphs,319,4796,43,2010-03-18T15:32:45Z
+mission-peace,Mission Peace,AMAZON.COM,Seattle ,,false,,10,4372,0,2014-07-20T20:19:17Z
+karan,Karan Goel,GOOGLECLOUDPLATFORM,Seattle,,false,Doing things!,142,4160,0,2013-01-14T04:36:13Z
+eugeneyan,Eugene Yan,AMAZON,Seattle,,false,"I build ML, RecSys, & LLM systems @Amzn, and write @ eugeneyan.com.",78,4096,86,2014-03-02T14:13:03Z
+garybernhardt,Gary Bernhardt,DESTROY ALL SOFTWARE LLC,"Seattle, WA",,false,,35,3683,4,2009-01-11T05:58:23Z
+ottomated,,,Seattle,,false,,86,3669,3,2017-08-30T08:43:30Z
+argyleink,Adam Argyle,GOOGLE,Seattle,argyle@google.com,false,"#argyleink {
+  position: #CSS @GoogleChrome @CSSWG;
+  maker: #VisBug;
+  luv: CSS/JS/UX;
+  role: parentNode;
+}",220,3500,369,2011-10-18T00:48:04Z
+HarmJ0y,Will Schroeder,SPECTEROPS,"Seattle, WA",,false,"Researcher @SpecterOps.
+
+Coding towards chaotic good.",60,3352,4,2013-09-20T20:45:30Z
+nolanlawson,Nolan Lawson,SALESFORCE,Seattle,nolan@nolanlawson.com,false,,457,3278,40,2010-05-22T01:29:35Z
+brendandburns,Brendan Burns,MICROSOFT,"Seattle, WA",,false,,199,3152,1,2013-10-22T23:42:04Z
+schollz,Zack,,"Seattle, WA",zack.scholl@gmail.com,true,Software Engineer + Scientist,1079,3079,200,2014-01-31T01:31:11Z
+cmuratori,Casey Muratori,"MOLLY ROCKET, INC.","Seattle, WA",,false,,18,3076,0,2014-12-16T12:05:53Z
+aidenybai,Aiden Bai,,portland ↝ seattle,,true,on the search for capybaras ʕ•ᴥ•ʔ,149,2738,32,2018-04-03T03:08:03Z
+colinhacks,Colin McDonnell,BUN,"Seattle, WA",colinmcd94@gmail.com,false,I have come here to chew bubblegum and write code. And _InsufficientBubblegumException_,142,2732,44,2012-12-19T22:40:13Z
+juliemr,Julie Ralph,GOOGLE,"Seattle, WA",,false,,48,2685,2,2012-08-02T05:43:51Z
+hyperb1iss,Stefanie Jane,MASON,"Seattle, WA",,true,"Light, Sound, and Android 🌠",28,2587,61,2009-07-06T14:26:47Z
+DanielRosenwasser,Daniel Rosenwasser,MICROSOFT,"Seattle, WA",,false,Principal Product Manager of TypeScript,173,2277,18,2011-08-11T02:09:39Z
+nex3,Natalie Weizenbaum,GOOGLE,Seattle,nex342@gmail.com,false,Lead designer and developer of @sass. Jewish. Antizionist.,156,2241,0,2008-02-11T22:53:32Z
+RyanCavanaugh,Ryan Cavanaugh,MICROSOFT,"Seattle, WA",,false,Development lead for the TypeScript team at Microsoft.,130,2193,0,2014-02-14T19:19:00Z
+kevmoo,Kevin Moore,DART-LANG @FLUTTER @GOOGLE,"Seattle, WA, USA",,false,A Product Manager at @google working on @dart-lang and @flutter web technologies,208,2193,51,2008-07-14T17:28:27Z
+KillianLucas,killian,,"Seattle, WA",,false,,10,2163,29,2020-04-18T19:11:34Z
+awsdocs,Amazon Web Services - Documentation,,"Seattle, WA",,false,Documenting Amazon Web Services and SDKs,269,2082,0,2014-09-04T23:02:45Z
+allenai,Ai2,,"Seattle, WA",ai2-info@allenai.org,false,,475,2025,0,2013-10-11T21:51:21Z
+praeclarum,Frank A. Krueger,"KRUEGER SYSTEMS, INC.","Seattle, WA",fak@praeclarum.org,false,"I am a mobile app developer specializing in iOS and .NET programming. I am into graphics, AI, robotics, and programming languages.",132,1962,3,2010-07-05T19:01:07Z
+xingyizhou,Xingyi Zhou,GOOGLE,Seattle,zhouxy2017@gmail.com,true,Research Scientist in Google Research,80,1884,121,2014-09-22T12:22:05Z
+ashleymcnamara,Ashley Willis,GITHUB,Seattle,ashleymcnamara@github.com,false,Senior Director of Developer Relations @ GitHub ,181,1842,35,2012-12-28T04:19:41Z
+ericniebler,Eric Niebler,NVIDIA,"Seattle, WA",eric.niebler@gmail.com,false,Member of the ISO C++ Standardization Committee and principal author of `std::ranges` and the upcoming `std::execution`.,49,1679,1,2010-03-18T23:38:53Z
+cwilso,Chris Wilson,GOOGLE,"Seattle, WA, USA",cwilso@gmail.com,false,,74,1631,16,2010-12-02T18:54:53Z
+lukehoban,Luke Hoban,PULUMI,Seattle,lukehoban@gmail.com,false,"CTO @Pulumi.
+
+Previously EC2 @AWS, TypeScript, VS Code and C# @Microsoft and ECMAScript @TC39.",110,1630,2,2010-03-16T01:00:28Z
+googlecolab,Google Colaboratory,,"Seattle, WA",,false,Colaboratory is a research tool for machine learning education and research. It’s a Jupyter notebook environment that requires no setup to use.,10,1590,0,2017-11-07T21:34:02Z
+palkan,Vladimir Dementyev,EVILMARTIANS,Seattle,,true,"Code & Cats & Rock'n'Roll!
+",139,1583,8,2012-03-08T15:44:24Z
+legomushroom,Oleg Solomko,,"Seattle, US",legomushroom@gmail.com,true,,238,1570,172,2012-02-27T15:42:33Z
+slundberg,Scott Lundberg,MICROSOFT RESEARCH,"Seattle, WA",,false,,64,1526,0,2013-03-01T17:21:29Z
+richlander,Rich Lander,DOTNET,Seattle / Toronto,,false,".NET Team member, trail runner, Dad, Husband.
+
+
+He/him",152,1500,9,2012-10-20T20:21:18Z
+ImgBotApp,Imgbot,IMGBOT,Seattle,help@imgbot.net,false,I commit for Imgbot https://imgbot.net,354,1478,1,2017-08-29T02:46:40Z
+keith,Keith Smiley,MODULARML,"Seattle, WA",keithbsmiley@gmail.com,true,"devx @modularml, maintainer of bazel's iOS support, creator of the Mobile Native Foundation, LLVM & Swift contributor, previously Principal Engineer at Lyft",264,1477,229,2010-05-22T03:16:16Z
+topfunky,Geoffrey Grosenbach,DATADOG,"Seattle, USA",,false,"DevRel visionary. GitHub user 26. Currently: Director of Education Engineering at @DataDog. Previously: HashiCorp, PeepCode, Pluralsight",87,1369,252,2008-01-15T05:40:05Z
+deltakosh,David Catuhe,MICROSOFT,Seattle,david.catuhe@live.fr,false,"Creator of Babylon.js, UrzaGatherer, UWP Community Toolkit, Collecto",8,1355,1,2012-01-05T08:14:20Z
+teamdandelion,team Dandelion Mané,,Seattle,dl@dandelion.io,false,,99,1323,50,2012-02-02T01:26:33Z
+auth0,Auth0,,Seattle,hello@auth0.com,false,,350,1309,0,2012-11-17T23:55:00Z
+alloy,Eloy Durán,MICROSOFT,"Seattle, WA",eloy.de.enige@gmail.com,false,,281,1294,30,2008-03-05T20:02:54Z
+veler,Etienne Baudoux,MICROSOFT,"Seattle, WA",,true,"Software Engineer on Visual Studio @microsoft, author of @DevToys-app https://devtoys.app",17,1248,16,2013-03-02T12:00:53Z
+piiswrong,Eric Junyuan Xie,UNIVERSITY OF WASHINGTON,Seattle,,false,Software Engineer @ Bytedance,34,1239,22,2011-01-17T14:40:06Z
+natemcmaster,Nate McMaster,AWS,"Seattle, WA",,false,"Software engineer for Amazon Web Services (@aws). Alumni of @microsoft / @dotnet.
+
+This is my *personal* account. AWS official work found under @mcmasn-amzn",50,1234,10,2012-11-01T03:35:08Z
+jbeda,Joe Beda,,"Seattle, WA",joe.github@bedafamily.com,false,Semi-retired. Did some stuff.,85,1227,10,2008-11-30T04:58:57Z
+yasoob,M.Yasoob Ullah Khalid ☺,MICROSOFT,Seattle,hi@yasoob.me,true,,238,1207,53,2013-02-25T17:55:16Z
+ongardie,Diego Ongaro,SELF,Seattle,ongardie@gmail.com,false,"Co-author of @raft. Previously @juicebox-systems, @homex, @eBay, @salesforce, @PlatformLab at Stanford.",46,1206,1,2010-11-02T08:24:21Z
+TimDettmers,Tim Dettmers,UNIVERSITY OF WASHINGTON,"Seattle, USA",,false,,53,1201,0,2013-08-19T08:55:59Z
+juanpflores,Juan Pablo Flores ,GITHUB,Seattle,,false,Student Program Manager at GitHub Education 🍎,68,1201,469,2013-12-16T19:57:36Z
+borismus,Boris Smus,,Seattle,,false,"Interaction engineer. Input & sensors, music & audio, and the web platform.",109,1195,110,2010-05-15T10:13:03Z
+armankhondker,Arman,TIKTOK,Seattle,,true,Software Engineer @TikTok. Interested in Distributed Systems and AI/ML. ,34,1181,4,2016-10-04T18:58:19Z
+basnijholt,Bas Nijholt,IONQ,"Seattle, USA",bas@nijho.lt,true,"🔬 Building quantum computers at IonQ by day, crafting various open-source tools at night.",360,1174,16,2014-03-09T10:08:02Z
+keesun,"Keesun Baik (a.k.a, Whiteship)",,"Seattle, WA",whiteship2000@gmail.com,false,,76,1158,11,2010-11-02T04:19:45Z
+ryanoasis,Ryan L McIntyre,,"Seattle, WA, USA",,true, Full Stack Application Developer ┋ Focused on UI - JavaScript - OSS - Vim ┋ Creator of Nerd Fonts  & VimDevIcons ,151,1153,21,2014-07-06T20:09:36Z
+rebornix,Peng Lyu,MICROSOFT,Seattle,penn.lv@gmail.com,false,@microsoft developer on VS Code,142,1148,261,2011-06-26T15:49:05Z
+jeffmo,Jeff Morrison,,"Seattle, WA",,false,,74,1135,0,2010-11-26T20:00:48Z
+jonrohan,Jon Rohan,GITHUB,"Seattle, WA",yes@jonrohan.codes,true,"Staff Engineer @github 💻 CSS/JS/HTML/Ruby, 👨🏻‍🎨 created @primer, commit messages are my own",48,1094,385,2009-02-12T18:22:32Z
+elfmaster,Ryan elfmaster O'Neill,ARCANA RESEARCH,Seattle,ryan@bitlackeys.org,false,"Computer security researcher, reverse engineer, and ELF connoisseur
+",44,1093,28,2013-11-04T21:23:14Z
+bashmohandes,Mohamed Elsherif,APPLE,"Seattle, WA",bashmohandes@live.com,false,"Software Engineer
+Podcaster: Host of AskDeveloper Podcast
+YouTuber: http://youtube.com/bashmohandes",15,1085,47,2011-07-13T08:08:44Z
+antiagainst,Lei Zhang,AMD AI GROUP,Seattle,,false,"AI Compiler & Runtime. Currently: Triton, IREE, MLIR. Previously: SPIR-V, Vulkan.",62,1077,12,2010-11-19T03:04:10Z
+broady,Chris Broadfoot,,Seattle,chris@chrisbroadfoot.id.au,false,@google @golang ,120,1068,33,2008-09-17T09:27:55Z
+sandersn,Nathan Shively-Sanders,MICROSOFT,Seattle,,false,"I work on the TypeScript compiler, mostly JS support and managing community PRs.",142,1056,0,2010-06-01T17:27:29Z
+lostintangent,Jonathan Carter,GITHUB,"Seattle, WA",lostintangent@github.com,false,"I build stuff @githubnext (prev. Microsoft) and maintain a bunch of two-worded VS Code extensions (CodeTour, GistPad, CodeSwing, WikiLens, GitDoc, 🤦)",125,1044,0,2009-08-18T07:27:52Z
+fengli,Feng LI,,Seattle,okidogii@gmail.com,true,,38,1043,39,2010-11-10T12:26:00Z
+derv82,derv,,seattle,,false,,26,1035,1,2011-08-20T21:56:16Z
+jelbourn,Jeremy Elbourn,GOOGLE,Seattle,,false,Member of the @angular team at @google,41,1032,0,2011-06-08T22:51:30Z
+jheer,Jeffrey Heer,"UNIVERSITY OF WASHINGTON @UWDATA, TRIFACTA INC.","Seattle, WA",,false,"UW Professor. Data, visualization & interaction. @uwdata @trifacta @d3 @vega ",21,1027,25,2010-02-13T00:04:37Z
+TimothyGu,Timothy Gu,STRIPE,"Seattle, US",timothygu99@gmail.com,true,Software Engineer at @Stripe. ex-@stanford ex-@UCLA ex-@google ex-@teslamotors | Work account: @timothyg-stripe,182,998,58,2012-03-15T00:57:26Z
+redblobgames,Amit Patel,RED BLOB GAMES,"Silicon Valley, CA & Seattle, WA",redblobgames@gmail.com,false,"I work on explorable explanations (interactive tutorials) for algorithms, using examples from computer games.",34,986,10,2014-09-13T05:45:28Z
+seankross,Sean Kross,FRED HUTCHINSON CANCER CENTER,"Seattle, WA",sean@seankross.com,false,,218,978,32,2012-06-05T15:44:29Z
+altercation,Ethan Schoonover,,Seattle,es@ethanschoonover.com,false,,8,973,16,2009-08-09T20:09:07Z
+whiteship,Keesun Baik,MICROSOFT,"Seattle, WA",whiteship2000@gmail.com,false,,17,962,2,2009-03-30T05:37:39Z
+mkheck,Mark Heckler,SPRING-PROJECTS,St. Louis/Seattle/Gotham,mark.heckler@gmail.com,false,"Software Developer/Principal Advocate for Java/JVM languages @ Microsoft, conference speaker, published author, & Java Champion developing prod-ready software",454,950,60,2012-07-06T18:03:58Z
+lpereira,L. Pereira,UNEMPLOYED,"Seattle, WA",,false,,89,945,6,2008-06-25T14:25:41Z
+filmgirl,Christina Warren,GITHUB,"Seattle, WA",filmgirl@github.com,false,"Senior Dev Advocate at GitHub by day, pop culture nerd by night. ",50,886,83,2009-07-31T16:37:53Z
+nmwsharp,Nicholas Sharp,,"Seattle, WA",,false,"3D geometry researcher: computer graphics/vision, geometry processing, and 3D machine learning",38,880,1,2015-06-03T06:52:18Z
+kendrahavens,Kendra Havens,UIPATH,"Seattle, Washington",,false,Product Manager at @UiPath,51,879,8,2014-07-28T21:21:02Z
+msurguy,Maksim Surguy,AMAZON,"Seattle, WA",msurguy@gmail.com,false,"MS in Tech Innovation,
+Design Tech at Amazon
+Past: dev @firstech, @nbcuniversal, creator of Bootsnipp, Drawingbots, Plotterfiles and many more. ",276,879,249,2011-01-27T03:25:44Z
+benvanik,Ben Vanik,AMD,"Seattle, WA",ben.vanik@gmail.com,false,,78,872,7,2009-04-19T05:51:51Z
+Pessimistress,Xiaoji Chen,,"Seattle, WA",,false,Designer. Geek. Beer addict. Data queen.,22,869,0,2012-07-29T06:37:13Z
+clareliguori,Clare Liguori,AMAZON WEB SERVICES,"Seattle, WA",,false,,74,859,0,2010-11-16T18:06:45Z
+QuantConnect,QuantConnect,,Seattle,support@quantconnect.com,false,Python and C# algorithmic trading platform,89,856,0,2013-03-19T18:18:33Z
+tpn,Trent Nelson,,"Seattle, WA",trent@trent.me,false,Systems Software Engineer.,137,849,36,2011-02-21T14:19:34Z
+zz85,Joshua Koo,EX @ZOPIM / @ZENDESK,Seattle,,true,"Occasional three.js contributor and perpetuator of random crazy ideas.
+
+Writing 🦀 and JavaScript, working on  ☁️ and web technologies",98,847,54,2010-06-26T04:08:23Z
+ingydotnet,Ingy döt Net,YAML LLC,Seattle,ingy@ingy.net,true,Ingy döt Net is an open source hacker who adheres to the tenets of @acmeism.,701,836,91,2008-08-25T07:13:26Z
+jorgevgut,Jorge ,,Seattle,,false,,72,836,20,2012-08-23T17:35:58Z
+djhohnstein,Dwight Hohnstein,XFORCERED,"Seattle, WA",,true,IBM X-Force Red. Kali Contributor.,240,827,6,2014-10-20T22:03:25Z
+travisg,Travis Geiselbrecht,GOOGLE,"Seattle, WA",travisg@gmail.com,false,,37,827,21,2009-06-22T04:59:39Z
+wiibrew,Wei Li,AMAZON AWS AI,"New York, Seattle",,false,Applied Scientist @ Amazon AWS AI ,81,803,11,2014-01-10T19:19:20Z
+cpuguy83,Brian Goff,MICROSOFT,"Seattle, WA",cpuguy83@gmail.com,false,,248,796,0,2011-05-19T20:38:00Z
+jacob-ebey,Jacob Ebey,,"Seattle, Wa",jacob.ebey@live.com,true,,391,790,10,2015-04-22T07:29:50Z
+chriskiehl,Chris,AMAZON,"Seattle, WA",me@chriskiehl.com,true,"Software engineer and general awesome person
+
+Checkout my book! Data Oriented Programming in Java: https://mng.bz/BgQv",65,779,16,2012-02-04T20:46:26Z
+zenspider,Ryan Davis,SEATTLERB CONSULTING,"Seattle, WA",ryand-ruby@zenspider.com,true,Founder of @seattlerb. Author of minitest & many other gems. NO Recruiters!,86,776,16,2008-05-09T21:04:04Z
+timothycrosley,Timothy Edmund Crosley,STRIPE,Seattle,timothy.crosley@gmail.com,false,,110,773,12,2012-08-03T14:45:38Z
+sergeyk,Sergey Karayev,,"Seattle, WA",,false,My goal is to deploy AI systems to improve human life. Co-founded Full Stack Deep Learning and Gradescope. PhD from UC Berkeley.,21,773,1,2008-04-04T02:15:30Z
+jeremycole,Jeremy Cole,∅,"Seattle, WA, USA",jeremy@jcole.us,false,"I do Open Source, mainly for databases, robotics, and electronics.",65,771,19,2010-10-22T18:17:33Z
+lzl124631x,Richard Liu,META,Seattle,liuzhenglaichn@gmail.com,true,"Full stack engineer. Working at Meta Seattle.
+👽 LEARNING NEVER ENDS.
+- 柳正来",35,769,76,2013-10-31T15:57:56Z
+bearpaw,Wei Yang,NVIDIA,"Seattle, WA, USA",,true,NVIDIA Robotics Research Lab,92,764,46,2010-05-28T07:37:01Z
+PWhiddy,Peter Whidden,,Seattle WA,,false,,131,763,131,2015-11-08T03:29:51Z
+rynowak,Ryan Nowak,MICROSOFT @AZURE,Seattle WA,,false,"Working on open source and experimental tech in the Azure CTO's office. 
+
+Creator radapp.io - 
+
+ex .NET Core/MVC/Blazor.",101,757,0,2012-02-12T01:22:20Z
+tableau,Tableau,,"Seattle, WA and around the world",github@tableau.com,false,On a mission to help people see and understand data. http://tableau.com,82,756,0,2011-06-04T00:06:10Z
+iliana,iliana etaoin,OXIDECOMPUTER,seattle,iliana@buttslol.net,false,pure of heart and dumb of ass,105,750,3,2009-02-08T18:08:31Z
+parthnagarkar875,Parth Nagarkar,AMAZON WEB SERVICES,Seattle,pnagarkar@cs.stonybrook.edu,false,"
+    The strongest code is inside you.
+
+
+
+",41,748,4,2019-03-14T16:46:23Z
+blueberrymusic,Andrew Glassner,,"Seattle, WA",,false,,9,741,0,2014-09-12T21:47:42Z
+iagox86,Ron Bowes,GREYNOISE + SKULLSECURITY,Seattle,ron-github@skullsecurity.org,false,Lead Security Researcher @ Greynoise,141,733,32,2010-12-16T21:39:13Z
+snakajima,Satoshi Nakajima,"MMHMM, SWIPE, VIDEOSHADER","Seattle WA, USA",,false,"Software Engineer &
+Entrepreneur",79,717,0,2009-10-14T18:06:53Z
+CamiWilliams,Cami Williams,FACEBOOK,"Seattle, WA",cwillycs@gmail.com,true,"Engineering Manager, Platform Advocacy at Meta",48,710,27,2013-07-27T19:27:01Z
+cowtowncoder,Tatu Saloranta,FASTERXML.COM,"Seattle, WA, USA",tsaloranta@gmail.com,true,"Java Champion, OSS tinkerer, probably best known as ""Dr Jackson"".",18,707,19,2009-02-16T22:15:56Z
+shmsw25,Sewon Min,UNIVERSITY OF WASHINGTON,"Seattle, WA",sewon@cs.washington.edu,false,PhD student @uwnlp,16,693,39,2014-09-08T05:28:21Z
+StudioWildcard1,Studio Wildcard,STUDIO WILDCARD,"Seattle, WA",,false,,0,692,0,2015-03-20T00:22:01Z
+anneomcl,Anne,HAPPIECAT STUDIOS,"Seattle, WA",anneomclaughlin@gmail.com,false,Known as TheHappieCat elsewhere.,62,686,0,2013-09-21T15:55:54Z
+aarongustafson,Aaron Gustafson,MICROSOFT,"Unceded Coast Salish land (Seattle, WA)",aarongu@microsoft.com,false,"#Accessibility #Innovation Strategist & #WebStandards aficionado. I also work on the tech behind #ProgressiveWebApps.
+
+#11ty #JavaScript & #IndieWeb for fun.",81,673,51,2009-04-20T14:15:20Z
+JustinBeckwith,Justin Beckwith,DISCORD,"Seattle, WA",justin.beckwith@gmail.com,false,Building bots @discord,225,669,17,2010-12-23T14:34:12Z
+sayedihashimi,Sayed Ibrahim Hashimi,MICROSOFT,"Seattle, WA",,false,Principal Program Manager at @Microsoft.,218,668,0,2011-12-24T01:56:59Z
+josephsavona,Joseph Savona,REACT & RELAY AT META,"Seattle, WA",,false,,41,663,0,2014-01-17T02:52:06Z
+leechristensen,Lee Chagolla-Christensen,SPECTEROPS,Seattle,,false,I like to make computers misbehave,44,657,0,2013-09-13T03:44:05Z
+mhagiwara,Masato Hagiwara,EARTH SPECIES PROJECT,"Seattle, WA, USA",hagisan@gmail.com,false,Senior AI Researcher @earthspecies working on decoding non-human communication with AI/ML. Ex @duolingo. Author of Real-World Natural Language Processing,52,655,26,2011-01-24T12:02:35Z
+ljvmiranda921,Lj Miranda,ALLENAI,Seattle,,false,processing language naturally,35,647,20,2015-06-18T09:07:52Z
+NickCH-K,,SEATTLE UNIVERSITY,"Seattle, WA",,false,"Economics professor at Seattle University (previously CSU Fullerton). Econometrics, causality, and visualization. Usually R, sometimes Stata or Python.",57,644,3,2018-11-06T18:57:16Z
+benmarwick,Ben Marwick,UNIVERSITY OF WASHINGTON,Seattle,,false,,320,638,439,2011-12-14T05:22:10Z
+davidshariff,David,"AMAZON, YAHOO",Seattle,,true,Manage the UI platform team building Amazon.com,10,636,14,2011-03-04T17:26:49Z
+yuchenlin,(Bill) Yuchen Lin,ALLENAI,"Seattle, WA, USA",,false,Researcher at Allen AI @allenai ,90,635,240,2014-12-07T09:12:42Z
+RhinoSecurityLabs,Rhino Security Labs,,"Seattle, WA",info@rhinosecuritylabs.com,false,"A boutique penetration testing and security assessment firm in Seattle, WA.",20,633,0,2015-03-11T20:57:18Z
+AkariAsai,Akari Asai,UNIVERSITY OF WASHINGTON,"Seattle, WA",akari@cs.washington.edu,false,PhD student at @uwnlp . NLP & ML.  ,46,626,24,2016-01-10T06:52:12Z
+valueof,Anton,,"Seattle, WA",,false,Computer Programmer,21,624,4,2009-01-25T05:33:53Z
+jeffwilcox,Jeff Wilcox,MICROSOFT,"Seattle, WA",,false,"Manager, Microsoft Open Source Programs Office. Opinions are mine alone.",111,622,88,2010-10-05T12:24:39Z
+joeduffy,Joe Duffy,PULUMI,"Seattle, WA",joe@pulumi.com,false,"Founder/CEO Pulumi • Cloud, languages, and developer tools • Eat, sleep, code, repeat",42,620,3,2013-03-24T02:36:18Z
+olivierlacan,Olivier Lacan,PLURALSIGHT,"Seattle, Washington",hi@olivierlacan.com,true,"Shields.io creator, @rails & @ruby contributor, built Code School, maintaining @keepachangelog. ",406,620,51,2009-03-23T06:18:50Z
+garann,Garann Means,,Seattle,,false,,34,616,36,2010-06-08T15:21:29Z
+gbowne1,Gregory Bowne,"BLUE STAR MACHINING, INC.","Seattle, WA USA ",,false,Machine and Fabrication Shop owner. Hobbyist coder.,39,609,1713,2019-02-12T04:36:38Z
+abcdabcd987,Lequn Chen,PPL-AI,Seattle,,false,GPG: D5FCB17FD44919C8,78,608,208,2012-10-02T07:53:27Z
+yzh119,Zihao Ye,UWSAMPL,"Seattle, WA",,false,,149,606,159,2015-04-02T15:38:41Z
+sjvasquez,Sean Vasquez,,"Seattle, WA",,false,"Undergrad @ MIT,  Resident @ FAIR",4,606,0,2015-06-29T21:35:01Z
+stevestreza,Steve Streza,MICROSOFT,"Seattle, WA",,false,Comic book author and iOS developer.,133,601,75,2008-10-11T19:30:44Z
+haberman,Joshua Haberman,GOOGLE,"Seattle, WA",jhaberman@gmail.com,false,,24,598,2,2008-02-27T23:02:17Z
+jdavis,Josh Davis,SUBSTACKINC,"Seattle, Washington",,false,,22,596,332,2009-11-24T22:39:39Z
+spro,Sean Robertson,NUVE PLATFORM,Seattle,,false,I sure do like websites.,135,595,242,2010-02-26T18:14:35Z
+jbevain,Jb Evain,MICROSOFT,"Seattle, WA",jb@evain.net,false,Running the Visual Studio Tools for Unity experience at Microsoft. Author of Mono.Cecil & other niceties. “Obviously French” alien.,27,594,10,2009-04-29T19:33:25Z
+frantic,Alex Kotliarskyi,FACEBOOK,"Seattle, WA",alex.frantic@gmail.com,false,"Founder & CTO secta.ai. UX zealot. Former @replit, @facebook.",110,594,49,2010-01-29T12:05:56Z
+transcranial,Leon Chen,MDAI,Seattle,,false,"Co-founder, MD.ai. Software/ML engineer, doctor, electronic musician.",53,592,0,2013-12-14T03:23:02Z
+jakobzhao,Bo Zhao,UNIVERSITY OF WASHINGTON,"Seattle, WA",,false,,132,589,159,2009-10-04T07:19:45Z
+hugozhu,Hugo Zhu,ALIBABA,Hangzhou/Seattle,hugozhu@gmail.com,false,,94,587,9,2009-02-11T07:43:43Z
+MariaSolOs,Maria José Solano,SWE @ PALANTIR,"Seattle, WA",majosolano99@gmail.com,false,,70,587,10,2020-03-22T10:33:30Z
+ArthurHub,Arthur,,Seattle,,false,"I f***ing love what I do, programming since the age of 10, contributing to open source and writing a dev blog in my free time.",8,587,0,2013-09-15T14:58:17Z
+jacobdevlin-google,Jacob Devlin,GOOGLE AI LANGUAGE,"Seattle, WA",,false,,0,587,0,2018-10-25T22:54:23Z
+drbrain,Eric Hodel,,"Seattle, WA",drbrain@segment7.net,false,,146,586,2,2008-05-09T21:01:45Z
+mbrubeck,Matt Brubeck,FULLSTORY,"Seattle, WA, US",mbrubeck@limpet.net,false,,344,582,119,2008-04-08T21:04:59Z
+VincentGranville,Vincent Granville,GENAITECHLAB.COM,"Seattle, WA",vincentg@mltechniques.com,false,"LLM & GenAI pioneer, founder, author, mathematician. Worked with Visa, Wells Fargo, NBC, eBay, Microsoft.",9,582,0,2019-03-27T17:29:50Z
+leodemoura,Leonardo de Moura,AWS,Seattle,leodemoura0@gmail.com,false,See https://leodemoura.github.io/about.html,26,575,3,2012-11-12T14:44:06Z
+crutkas,Clint Rutkas,MICROSOFT,"Seattle, WA",clint@rutkas.com,false,"PM Lead on PowerToys, Sudo, Terminal and more. Goal is to help Microsoft making Windows the best developer platform possible. ",11,572,0,2012-02-22T18:11:03Z
+samuelkarp,Samuel Karp,GOOGLE,"Seattle, WA",,false,"Chair of the @opencontainers TOB.  Staff Software Engineer @google.
+
+he/him",75,572,272,2011-04-18T22:18:00Z
+andyleejordan,Andy Jordan,MICROSOFT,"Seattle, WA",,false,I open-sourced @PowerShell and now maintain its Visual Studio Code extension.,197,571,351,2012-08-27T09:40:16Z
+heckj,Joseph Heck,,"Seattle, WA",heckj@mac.com,false,,178,569,223,2008-12-30T20:39:41Z
+bryphe,,,"Seattle, WA",,false,,144,565,35,2015-07-28T04:42:57Z
+PeterL1n,Peter Lin,,"Seattle, Washington, USA",,false,,6,563,1,2014-05-21T04:40:21Z
+tunz,Choongwoo Han,MICROSOFT,Greater Seattle Area,cwhan.tunz@gmail.com,true,,11,555,68,2014-06-08T14:44:20Z
+amdegroot,Max deGroot,TALC.AI,"Seattle, WA",m@xdegroot.net,true,applying science @talc.ai,15,542,52,2016-01-12T04:58:15Z
+domaindrivendev,Richard Morris,,"Seattle, WA",,false,,11,539,0,2012-02-13T18:54:17Z
+vlandham,Jim Vallandingham,,"Seattle, WA",,true,,265,533,42,2008-05-05T17:34:45Z
+trvrb,Trevor Bedford,FRED HUTCHINSON CANCER RESEARCH CENTER,"Seattle, WA",,false,"Scientist at the Fred Hutch, studying viruses, evolution and immunity. Maintains @blab, @nextstrain and @seattleflu.",35,530,120,2011-11-06T16:28:56Z
+pcgeek86,Trevor Sullivan,,"Seattle, Washington",trevor@trevorsullivan.net,true,"A little of everything, but especially AWS, Azure, PowerShell, Python, Go, and JavaScript",68,529,194,2010-11-04T01:51:27Z
+jayshah19949596,Jai Shah,AMAZON,"Seattle, Washington, USA",jai.s@somaiya.edu,true,Software Development Engineer at Amazon,67,520,6,2016-07-12T11:49:16Z
+juberti,Justin Uberti,FIXIE-AI,"Seattle, WA",justin@uberti.name,false,"CTO @fixie-ai. ex-@google Distinguished Engineer, created WebRTC and Google Duo; lead for Hangouts, AIM. Occasional mathematician and musician.",52,519,4,2012-06-06T04:22:51Z
+beaucollins,Beau Collins,,"Seattle, Wash.",beau@collins.pub,true,"Special Author
+    
+",94,517,1,2008-08-06T17:58:20Z
+d4l3k,Tristan Rice,PYTORCH @FACEBOOK,Seattle/Vancouver,rice@fn.lc,true,"Hi! ML+Self Driving+Security.
+
+Maintainer for @pytorch Distributed, TorchX and TorchElastic",260,517,20,2011-07-12T01:01:20Z
+sayar,Rami Sayar,MICROSOFT,Seattle,,false,Principal Software Engineering Manager @microsoft ,38,516,85,2011-07-22T20:03:16Z
+jhamman,Joe Hamman,EARTH-MOVER,"Seattle, WA",joe@earthmover.io,false,"Scientist and Engineer and Human.
+",66,515,73,2012-09-28T06:45:58Z
+dvdzkwsk,David Zukowski,MATERIAL SECURITY,"Seattle, WA",,false,,15,512,3,2014-01-18T19:29:28Z
+qingsongedu,Qingsong Wen,SQUIRREL AI LEARNING BY YIXUE EDUCATION INC.,"Seattle, WA",,false,Head of AI Research @ Squirrel AI | AI for Time Series & AI for Education | Hiring FTEs/Interns (Seattle/Shanghai)!,15,511,21,2012-10-12T02:16:18Z
+goshacmd,Gosha Spark,,"Seattle, WA",me@goshacmd.com,true,"React Native, React, JS",106,504,398,2010-06-27T07:21:41Z
+roblourens,Rob Lourens,MICROSOFT,"Seattle, WA",roblou@microsoft.com,false,VS Code and VS Code accessories,119,502,45,2010-07-06T05:17:21Z
+instafluff,Instafluff,INSTAFLUFF,"Seattle, WA",,false,Creator of Comfy.js and @streampuppy Co-founder of PixelPlush Games! Live on the Comfiest Corner of @Twitch,169,500,8,2018-01-24T15:33:28Z
+Konloch,Konloch,,"Seattle, Washington",konloch@gmail.com,true,"Emulator Apprentice, Game Developer, Java Hacker, FOSS Enthusiast & Reverse Engineer.",38,498,16,2011-11-20T00:31:31Z
+oconnor663,Jack O'Connor,SPACEX,Seattle,oconnor663@gmail.com,false,,151,497,22,2011-06-20T05:33:52Z
+FormidableLabs,Nearform Commerce,,"Seattle, WA",commerce@nearform.com,false,"We craft web apps, train engineering teams from growing startups to established enterprises, and enhance the modern web with open-source solutions.",327,496,0,2013-07-24T05:29:32Z
+kaniini,Ariadne Conill,,Seattle,ariadne@ariadne.space,false,Keeper of mazes.,167,495,29,2012-03-10T06:43:01Z
+saulpw,Saul Pwanson,,"Seattle, USA",github@saul.pw,false,"Data, optimization, tools",35,495,70,2010-04-04T01:46:14Z
+jeaye,Jeaye Wilkerson,ELECTRONIC ARTS (EA),"Seattle, Washington, USA",contact@jeaye.com,false,"Building jank, the native Clojure dialect on LLVM with C++ interop.",48,489,0,2011-09-17T05:07:54Z
+BboyAkers,Austin Akers,HARPERDB,Greater Seattle Area,austin.akers5@gmail.com,false,I do programming stuff 🙂,122,489,114,2015-04-02T23:51:47Z
+ararslan,Alex Arslan,BEACON BIOSIGNALS,"Seattle, WA",,false,Julia language developer,151,488,94,2014-01-14T04:25:29Z
+dmarx,David Marx,"STABILITY.AI, ELEUTHER.AI","Seattle, WA",david.marx84@gmail.com,false,"Engineer / Machine Learning Researcher interested in deep learning, probabilistic ML, generative models, multi-modal SSL, visual understanding, geometric ",260,488,345,2012-02-23T19:39:08Z
+reset,Jamie Stormbreaker,PLAYONEMOREGAME,"Seattle, WA",jamie@onemoregame.com,false,"Founder, COO, and Game Director",70,486,11,2009-02-12T19:43:46Z
+jmdobry,Jason Dobry,GOOGLE INC.,"Seattle, WA",,false,Husband. Father. Software Engineer. Always learning.,12,486,0,2011-11-22T17:06:37Z
+CaitieM20,Caitie McCaffrey,,Seattle WA,,false,,14,484,0,2013-01-18T21:43:51Z
+azonenberg,Andrew Zonenberg,IOACTIVE,"Seattle, WA",,false,,62,481,0,2011-08-23T04:39:09Z
+Ameobea,Casey Primozic,PINGTHINGS,"Seattle, WA, USA",casey@cprimozic.net,true,https://twitter.com/ameobea10,135,480,200,2013-05-04T01:14:42Z
+analogrelay,Ashley Stanton-Nurse,MICROSOFT,"Seattle, WA",contact@analogrelay.net,false,Non-Digital. I write Code for @azure at Microsoft. Previously @dotnet and @github,313,478,5,2008-04-16T14:40:04Z
+lenadroid,Lena,AWS,Seattle,,true,@AWS. Ex @Microsoft and @MSFTResearch. Architect. Speaker. Organizer @ml4all. Board member @fsharp. Committee @kafkasummit.,37,477,190,2013-08-03T07:43:58Z
+daerduoCarey,Kaichun Mo,NVIDIA,"Seattle, Washington",daerduomkch@gmail.com,false,"Research Scientist at Seattle Robotics Lab, NVIDIA Research; Previously CS Ph.D. Student at Stanford",118,471,33,2012-10-30T08:04:37Z
+zombieCraig,Craig Smith,HACKTOP STUDIOS,"Seattle, WA",,false,,34,468,3,2011-01-18T01:11:30Z
+beccasaurus,Rebecca Taylor,,"Seattle, WA ☔️",,false,,71,465,0,2008-02-14T18:59:31Z
+mgmeyers,Matthew Meyers,,"Seattle, WA",,true,Web dev studying to become a therapist.,53,464,5,2012-10-31T22:23:48Z
+TheSarang,Sarang Narkhede,AMAZON WEB SERVICES,Seattle,narkhedesarang@gmail.com,true,Software Engineer @AWS. Live and Breathe SE & ML!! Former Community Organizer at @gdg-rochester.,56,463,12,2017-03-24T17:42:08Z
+kanitw,Kanit Wongsuphasawat,DATABRICKS,Seattle,,false,"Visualization at @databricks . Co-author of Vega-Lite, Swift Charts, Data Voyager, and Graph Visualization in TensorBoard. Formerly at @uwdata and Apple.",52,460,13,2009-08-03T04:56:14Z
+BSVino,Jorge Rodriguez,LUNAR WORKSHOP,Seattle,bs.vino@gmail.com,false,,51,457,3,2011-05-28T02:02:42Z
+mandliya,Ravi Mandliya,DISCORD,"Seattle, WA",ravi.mandliya@gmail.com,false,,48,456,160,2013-05-22T22:11:13Z
+scottgu,Scott,,Seattle,scott@guthriefamily.org,false,,4,456,0,2010-06-16T06:57:42Z
+li-xin-yi,Xinyi Li,,Seattle,,true,I AM THE BLACK CAT!!!,75,456,43,2014-12-08T16:01:08Z
+miguelsolorio,Miguel Solorio,GOOGLE,"Seattle, WA",,false,"Designer at @Google working on @GoogleColab, prev VS Code at @Microsoft",67,455,70,2018-01-09T17:55:58Z
+adrianhall,Adrian Hall,MICROSOFT @AZURE,"Seattle, WA",photoadrian@outlook.com,false,Mobile / Cloud Afficionado,10,455,7,2012-03-01T18:03:24Z
+jmcphers,Jonathan,"POSIT SOFTWARE, PBC","Seattle, WA",jonathan@posit.co,false,,46,452,11,2010-11-06T18:36:35Z
+danielgtaylor,Daniel G. Taylor,ISTREAMPLANET,"Seattle, WA",danielgtaylor@gmail.com,true,,99,451,13,2009-07-20T11:52:42Z
+trivikr,Trivikram Kamat,AWS,"Seattle, WA, USA",,false,Software Development Engineer | @nodejs core collaborator | maintainer of @aws SDK for JavaScript | International Speaker,166,449,193,2015-11-26T00:32:00Z
+kg,Katelyn Gadd,,"Seattle, WA",kg@luminance.org,false,"I work on the .NET runtime and created the Jiterpreter.
+Creator of JSIL and one of the creators of WebAssembly.
+Sometimes I make video games",77,448,15,2010-02-06T00:57:37Z
+kieferrm,Kai Maetzel,,"Seattle, WA, USA",kamaet@microsoft.com,false,,54,448,6,2013-06-11T23:35:03Z
+javierluraschi,Javier Arturo Porras Luraschi,HAL9AI,"Seattle, WA",jluraschi@gmail.com,false,"Nextgen Apps at Hal9.
+
+Previously RStudio, Microsoft Research, and SAP.",115,448,11,2013-02-05T06:35:16Z
+izhangzhihao,Zhihao Zhang,,Seattle,,true,"Make the impossible possible, the possible easy, the easy elegant.",64,447,64,2015-04-21T04:26:56Z
+nickbytes,Nick Beattie,,Seattle,nick@nickbytes.com,false,Engineering at Polymarket,67,444,2627,2012-12-10T16:55:27Z
+KevinMarquette,Kevin Marquette,,"Seattle, WA",,false,"Sr. DevOps Engineer, Microsoft MVP, 2018 PowerShell Community Hero, and SoCal PowerShell User Group Organizer @SoCalPowerShell",75,440,23,2014-06-11T22:37:52Z
+chen0040,Xianshun Chen,,"Seattle, WA, USA",xs0040@gmail.com,false,Researcher - Developer,234,440,31,2013-01-28T04:35:10Z
+CodeMaxx,Akash Trehan,MICROSOFT | IIT BOMBAY | CMU | UCSB,"Seattle, USA",,true,"Kernel Security Engineer 2 @ Microsoft, CS @ IIT Bombay, Security Research Intern at Carnegie Mellon SCS, 
+@shellphish member",90,438,62,2015-08-30T20:23:14Z
+jspruance,JSpru,,"Seattle, WA",jgspruance@gmail.com,true,"Software engineer and tech YouTuber based in Seattle, WA",60,438,2,2016-02-02T20:47:38Z
+iandunn,Ian Dunn,,Seattle,ian@iandunn.name,false,,84,438,111,2010-11-16T16:07:15Z
+evocateur,Daniel Stockman,,"Seattle, WA",,false,,148,436,48,2008-04-07T16:03:57Z
+StartAutomating,James Brundage,START-AUTOMATING,"Seattle, WA",,true,Microsoft MVP in Azure / PowerShell,72,433,51,2011-09-12T06:54:49Z
+RandalLinden,Randal Linden,"R AND R DIGITAL, LLC.","Seattle, Washington",,false,"""Old-school"" professional programmer
+
+Wrote Cyboid, bleem!, bleemcast!, DOOM Super Nintendo, Dragon’s Lair Amiga
+",6,431,4,2020-01-06T13:43:36Z
+ZihengJiang,Ziheng Jiang,UNIVERSITY OF WASHINGTON,"Seattle, Washington",ziheng@apache.org,false,Research Interests: Machine Learning Systems,25,431,0,2016-03-07T01:24:43Z
+bootstrap4cc,Trish Garibian,BOOTSTRAP4CC,Seattle,,false,Welcome to bootstrap4.cc. We’re dedicated to giving you the very best of open source frontend masterpieces.,43,431,2705,2019-06-05T07:06:37Z
+SecondThread,David Harmeyer,,"Seattle, Washington",13dharmeyer@gmail.com,true,Computational geometry enthusiast,24,429,10,2016-04-06T23:21:47Z
+nlpxucan,Can Xu,MICROSOFT,"Seattle, U.S.A.",,false,"Senior Researcher at Microsoft. Creator of Evol-Instruct and WizardLM Family: WizardLM, WizardCoder and WizardMath.
+Project: https://twitter.com/WizardLM_AI",24,423,17,2015-05-28T03:58:34Z
+xinw1012,Xin Wang,,Seattle,,false,"Researcher from Microsoft Research. Prev. Ph.D. student at UC Berkeley.
+",61,423,19,2014-03-24T04:57:53Z
+Plagman,Pierre-Loup A. Griffais,,"Seattle, WA",,false,,16,420,1,2010-12-19T23:52:23Z
+acheamponge,Emmanuel Acheampong,ROBOMUA,Seattle,achampion.emma@gmail.com,false,"AI Engineer | Co-Founder @ ROBO-BootCamp, roboMUA | Creator @ Culture x AI",163,420,35,2017-02-24T03:02:14Z
+codemillmatt,Matt Soucoup,MICROSOFT AND CODE MILL TECHNOLOGIES,"Seattle, WA",msoucoup@codemilltech.com,false,Principal .NET Cloud Developer Advocate Lead @Microsoft,202,420,0,2012-07-27T19:01:40Z
+weswigham,Wesley Wigham,MICROSOFT,"Seattle, WA",wwigham@gmail.com,false,,169,419,14,2012-11-30T17:36:09Z
+vikhyat,vik,,"Seattle, WA",vikhyatk@gmail.com,false,,55,418,26,2008-10-26T03:47:25Z
+lakshmanok,Valliappa (Lak) Lakshmanan,SILVER-LAKE-TECHNOLOGY-MANAGEMENT,"Seattle, WA",lak@vlakshman.com,false,,35,413,1,2012-05-15T16:17:45Z
+sudheesh001,Sudheesh Singanamalla,NETFLIX,Seattle,sudheesh@cs.washington.edu,true,"- PhD Candidate at Univ. of Washington
+- @cloudflare
+- Former Research Fellow @MicrosoftResearch
+- Contributor @hyperledger
+- GSoC Mentor @fossasia @loklak ",277,413,31,2013-05-28T05:59:03Z
+WaltRitscher,Walt Ritscher,LINKEDIN LEARNING,Seattle Area,,false,Founder of LearnIt Labs. A lifetime of teaching technical topics to a technical audience.  Watch my courses on LinkedIn Learning.  Musician.,32,408,1,2014-02-25T19:29:22Z
+viirya,Liang-Chi Hsieh,APPLE @APACHE,Seattle,,true,"Apache Arrow, DataFusion and Spark Committer",236,408,2,2009-03-31T08:29:07Z
+PetrochukM,Mixail Petrochuk,WELLSAID-LABS,"Seattle, WA",Petrochukm@gmail.com,false,World Record Holder • Deep Learning (DL) Engineer & Researcher • CTO @ https://wellsaidlabs.com,26,407,25,2014-04-28T02:57:17Z
+prabhakar267,Prabhakar Gupta,AMZN,"Seattle, WA",,true,Applied Scientist @amzn,123,406,48,2015-01-30T05:38:43Z
+ryanmcgrath,Ryan McGrath,FREELANCE,Seattle / Tokyo,ryan@rymc.io,true,"Privacy, Rust, Apple and everything in-between. Other tech stacks welcome too, as long as what we're building is cool.",58,406,67,2008-09-01T04:56:48Z
+anarchivist,María A. Matienzo,BERKELEYLIBRARY,"Seattle, WA",,true,"Head of Application Development Services, UC Berkeley Library",162,405,209,2009-04-14T17:17:28Z
+nfmcclure,Nick,NFMCCLURE,"Seattle, WA",,false,,31,402,23,2013-12-05T05:09:51Z
+arokem,Ariel Rokem,THE UNIVERSITY OF WASHINGTON ESCIENCE INSTITUTE,"Seattle, WA",arokem@gmail.com,false,,662,402,24,2009-08-23T17:47:49Z
+jslee02,Jeongseok (JS) Lee,META REALITY LABS,"Seattle, WA",,false,Research Engineer in Robotics and AR/VR,137,402,26,2013-04-02T15:37:15Z
+CodingCat,Nan Zhu,OPENAI,Seattle,,true,,122,401,27,2011-03-19T00:04:25Z
+cronokirby,Lúcás Meier,,Seattle,lucas@cronokirby.com,true,"""apprentice cryptographer""",189,398,3,2016-10-13T17:31:24Z
+jayleicn,Jie Lei 雷杰,META AI,Seattle,jielei@cs.unc.edu,false,"Research Scientist @ Meta AI, vision+language.",52,394,82,2015-11-10T06:57:52Z
+tannewt,Scott Shawcroft,CHICKADEE-TECH,"Seattle, WA",scott@chickadee.tech,false,I contract for @adafruit through my freelance engineering company @chickadee-tech.,315,393,133,2009-02-07T21:26:28Z
+evandbrown,Evan Brown,GOOGLE,"Seattle, WA",evandbrown@gmail.com,false,,108,391,43,2011-03-08T04:03:58Z
+normj,Norm Johanson,AMAZON WEB SERVICES,"Seattle, WA",,false,"I work at @awscloud, making .NET great on AWS. Repositories under my account are personal side projects and not AWS supported projects.",35,391,1,2012-04-18T00:20:47Z
+joemarini,Joe Marini,DATABRICKS,"Seattle, WA",cjmarini68@gmail.com,false,I work with our Developer Tools and Data Science Ecosystem at @Databricks,13,390,3,2011-06-01T05:55:17Z
+alvinwan,Alvin Wan,,Seattle,,false,"making AI run really fast; fan of cheesecake, corgis, Disneyland",72,390,4,2012-07-31T00:05:24Z
+melanierichards,Melanie Richards,WEBFLOW,"Seattle, WA",mr@melanie-richards.com,false,"Product @Webflow. Always aiming to empower people to make interesting, useful, and inclusive things on the web",37,389,56,2010-07-22T03:39:15Z
+staticfloat,Elliot Saba,VALVE SOFTWARE,"Seattle, USA",staticfloat@gmail.com,false,,460,388,11,2009-09-24T18:20:52Z
+sacmehta,Sachin Mehta,,Seattle,,false,AI/ML Researcher,14,387,0,2016-04-21T20:53:34Z
+brandonbloom,Brandon Bloom,,"Seattle, WA",brandon.d.bloom@gmail.com,false,,245,386,170,2009-08-25T06:03:20Z
+cnishina,Craig Nishina,GOOGLE,Seattle,,false,"Developer @Google. Will code for coffee, food, compliments. Video gamer, Seahawks fan, Husky alumni, Bourbon & Beer aficionado, DIY-er.",78,382,19,2012-03-21T00:54:44Z
+ipinfo,IPinfo,,"Seattle, WA",support@ipinfo.io,false,"IP address API: geolocation, VPN detection, company data and more. Serving over 40 billion API requests a month for 500,000+ businesses and developers.",38,382,0,2015-11-09T01:03:24Z
+guozhangwang,Guozhang Wang,CONFLUENTINC,Seattle,guozhang.wang.us@gmail.com,false,@apache Kafka PMC and committer.,20,380,4,2015-01-27T18:29:37Z
+jiasenlu,Jiasen Lu,ALLENAI,Seattle,echosenm@gmail.com,true,Research Scientist @allenai ,56,379,33,2013-04-20T11:53:02Z
+pjbull,Peter Bull,DRIVENDATA,"Seattle, WA",,false,"Co-founder at @drivendataorg, building tools, algorithms, and products for social impact.",42,378,3,2012-05-31T14:17:21Z
+rachmari,Rachael Sewell,,"Seattle, WA",,false,,20,378,14,2014-11-18T22:43:39Z
+LGUG2Z,جاد,,"Seattle, WA",,false,Carly Rae Jepsen fanboy,88,377,36,2015-07-03T10:46:04Z
+cryptexcode,Sudipta Kar,AMAZON,"Seattle, WA",,true,"Applied Scientist at Amazon Alexa AI.
+Artificial Intelligence, NLP, Deep Learning, Machine Learning.",19,376,1,2012-10-26T14:09:27Z
+jroesch,Jared Roesch,NVIDIA,"Seattle, Washington",,false,"CTO @ OctoML, PMC @ Apache TVM, PhD @ UW. Previously Rustc, Lean & F* hacker.",148,375,66,2011-03-29T04:37:01Z
+jef,Jef LeCompte,GREENLIGHTME,"Seattle, WA",,true,Currently working on tools at @GreenlightMe. Owner of streetmerchant and maintainer of @beetbox.,15,374,11,2015-04-22T20:57:32Z
+davidmccabe,David McCabe,FACEBOOK,Seattle,davemccabe@gmail.com,true,,40,373,0,2009-09-29T01:06:14Z
+myronmarston,Myron Marston,SQUARE,"Seattle, WA",myron.marston@gmail.com,false,,113,373,23,2009-01-26T17:26:43Z
+zzmp,Zach Pomerantz,GAUNTLET-XYZ,Seattle,,true,,180,372,6,2013-09-07T01:12:40Z
+tvillarete,Tanner Villarete,BREXHQ,"Seattle, WA",tvillarete@gmail.com,true,Making the 🌎 a more user-friendly place. Engineer at @brexhq. ,25,370,0,2016-08-16T08:40:55Z
+scottyhq,Scott Henderson,"UNIVERSITY OF WASHINGTON, @UWESCIENCE","Seattle, WA",scottyh@uw.edu,false,geophysicist and python enthusiast,237,370,5,2013-03-20T20:45:57Z
+Jeffwan,Jiaxin Shan,BYTEDANCE,"Seattle, WA",seedjeffwan@gmail.com,true,Software Engineer @ Bytedance,197,368,290,2013-06-19T14:36:54Z
+jonringer,Jonathan Ringer,,"Near Seattle, WA",,false,"A release manager for NixOS 20.09, 21.05, 21.11, and previously 24.05.
+
+Functional Programming fan including Haskell and NixOS",155,365,22,2014-05-22T21:23:41Z
+fangchangma,Fangchang Ma,,Seattle,mafangchang@gmail.com,true,Ex Research Scientist@Apple; PhD in Robotics@MIT.,10,364,28,2016-02-04T22:04:39Z
+jpmedley,Joe Medley,,"Seattle, Washington",,true,If an API's not documented it doesn't exist. I've documented web platform APIs for the last ten years and have done APIs generally for far longer.,93,363,19,2014-07-18T19:36:27Z
+yizhongw,Yizhong Wang,UNIVERSITY OF WASHINGTON,Seattle,yizhongw@cs.washington.edu,true,PhD student at the University of Washington,39,362,52,2014-09-04T10:33:03Z
+xrochoa,Xavier Reyes Ochoa,FREELANCER,"Seattle, WA",,true,,38,361,0,2014-12-06T23:47:10Z
+jeffpar,Jeff Parsons,,"Seattle, WA",Jeff@pcjs.org,false,"Writer of software, consumer of technology and the occasional doughnut.",36,359,75,2011-03-01T22:04:58Z
+bsipocz,Brigitta Sipőcz,CALTECH/IPAC,"Seattle, WA",brigitta.sipocz@gmail.com,false,"Python, astronomy, and open source.",477,355,0,2014-02-26T00:12:16Z
+kevinlin311tw,Kevin Ke-Yun Lin,MICROSOFT; UNIVERSITY OF WASHINGTON,"Seattle, WA",kevinlin311.tw@gmail.com,false,,26,354,40,2014-11-27T06:31:06Z
+sytelus,Shital Shah,MICROSOFT,"Seattle, WA",sytelus@gmail.com,false,"Research Engineer at Microsoft Research with interests in deep learning, reinforcement learning, computer vision and autonomous vehicles.",180,354,208,2012-08-05T03:04:25Z
+homebysix,Elliot Jordan,NETFLIX,"Seattle, WA",,false,,347,353,25,2014-06-05T04:21:56Z
+dcjones,Daniel C. Jones,FRED HUTCHINSON CANCER RESEARCH CENTER,"Seattle, WA, USA",djones3@fredhutch.org,true,,102,353,11,2010-02-25T01:17:53Z
+maniacbug,,,"Seattle, WA",,false,,28,353,0,2011-02-24T20:28:51Z
+nlsandler,,,"Seattle, WA",,false,,19,352,3,2012-01-03T20:14:23Z
+abby-fuller,Abby Fuller,,Seattle,abby.fuller@gmail.com,false,ec2 @aws ,7,351,2,2013-08-29T20:21:56Z
+pbeshai,Peter Beshai,NETFLIX,"Seattle, WA",peter.beshai@gmail.com,false,,77,349,12,2011-05-17T16:31:04Z
+svermeulen,Steve Vermeulen,,"Seattle, WA",sfvermeulen@gmail.com,false,Game developer,192,348,48,2011-05-25T21:15:17Z
+yongxuUSTC,yong xu @ seattle,TENCENT AI LAB,"Bellevue, Seattle, USA",yong.xu.ustc@gmail.com,true,,92,348,11,2013-09-06T12:16:03Z
+bcongdon,Ben Congdon,DATABRICKS,"Seattle, WA",,false,,176,347,306,2011-04-03T04:51:56Z
+Pilchie,Kevin Pilch,MICROSOFT,"Seattle, WA, USA",me@pilchie.com,false,"Engineering manager for ASP.NET Core, Entity Framework, and Winforms",79,347,5,2010-06-23T15:14:50Z
+marktoda,,UNISWAP,"Seattle, WA",toda.mark@gmail.com,false,,48,347,58,2018-07-02T16:54:43Z
+AllenInstitute,Allen Institute,,"Seattle, WA",,false,Please visit http://alleninstitute.github.io/ for more information.,392,345,0,2012-06-13T23:33:02Z
+jgranick,Joshua Granick,,Seattle,,false,"Creator of @openfl. Writer, speaker and empathetic problem-solver.",145,343,0,2011-06-07T00:45:38Z
+morganherlocker,Morgan Herlocker,SPACEX,"Seattle, WA",morgan.herlocker@gmail.com,true,,141,343,146,2011-05-27T13:50:47Z
+GeeLaw,Gee Law,,"Seattle, WA, USA",geelaw@outlook.com,false,Cryptography,31,342,134,2013-05-18T04:38:21Z
+ettaboyle,Amanda Boyle,GITHUB,"Seattle, Washington",,false,"Helping people help people.
+
+Community Discussions 🚀
+community.github.com",1,342,16,2020-12-01T23:41:33Z
+autonomousapps,Tony Robalik,,"Seattle, WA, USA",tony.robalik@gmail.com,false,"Senior Software Engineer, with a focus on Android and tooling.",79,341,2,2013-09-06T19:24:48Z
+eigensteve,Steve Brunton,UNIVERSITY OF WASHINGTON,Seattle,eigensteve@gmail.com,false,,1,339,0,2014-09-11T23:32:40Z
+nikhilk,Nikhil Kothari,GOOGLE,Seattle,,false,"Engineering Lead @Google, working on machine learning and data analytics services for Google Cloud Platform.",21,338,0,2008-06-22T18:13:24Z
+evancohen,Evan Cohen,UIPATH,Seattle,,false,Automating all the things.,42,335,21,2011-11-16T02:55:56Z
+jonatan-ivanov,Jonatan Ivanov,BROADCOM,"Seattle, WA",jonatan.ivanov@gmail.com,true,"Enthusiastic Software Engineer; Spring Engineering Team; Seattle Java User Group; Certified dragon trainer, seriously :)",124,334,63,2012-12-14T16:34:35Z
+mattxwang,Matt Wang,TEACHING PROF AT UNIVERSITY OF WASHINGTON,seattle,mxw@cs.washington.edu,false,Some mix of teaching and beep-bop-booping to empower people. Maintaining @just-the-docs and @stylelint; retired @neuppl @uclaacm.,75,333,191,2015-09-29T16:33:56Z
+embeddinglayer,Benjamin,SYNTHIENT,"Seattle, WA",,false,"Computer Science, 2026 RIT.",3,332,12,2021-06-05T19:21:55Z
+hexiang-hu,Hexiang Hu,GOOGLE DEEPMIND,Seattle,,true,Hexiang Hu is a Research Scientist at Google Deepmind. His research focus on Computer Vision and Natural Language Processing.,48,331,15,2013-03-05T04:41:32Z
+Philip-Scott,Felipe Escoto,"MICROSOFT, @ELEMENTARY","Seattle, Washington",felescoto95@hotmail.com,true,Senior Software Engineer @microsoft - Linux App Developer for @elementary OS,53,331,12,2015-01-31T14:36:46Z
+margaretmz,Margaret Maynard-Reid,,"Seattle, US",,false,"ML GDE | AI, Art & Design",41,331,14,2012-06-23T18:59:20Z
+IanMitchell,Ian Mitchell,,"Seattle, Washington",ian.mitchell@hey.com,true,"I'm currently playing around with Node.js, React, Ruby, and Discord bots!
+
+",102,330,80,2011-02-06T23:54:37Z
+carlasouza,Carla Souza,FACEBOOK,Seattle,,false,,36,329,71,2010-04-13T22:29:59Z
+TiesdeKok,Ties de Kok,FOSTER SCHOOL OF BUSINESS (UW),"Seattle, United States",tdekok@uw.edu,false,Quant researcher at Arrowstreet Capital. Former accounting professor at the University of Washington. ,31,328,29,2015-07-13T15:53:21Z
+Spiderpig86,Stanley Lim,SNAPCHAT,"Seattle, WA",,true,💎 [object Object] | @Snapchat | Ex @aws | Stony Brook University,70,327,29,2012-11-15T02:30:37Z
+lessw2020,Less Wright,,"Seattle, WA USA",lessw@etrillium.com,false,"AI/PyTorch Partner Engineer - Meta AI  (Facebook AI) 
+Principal Software Engineer - Audere
+Software Architect - X10 Wireless
+Dev/PM  - Microsoft",209,327,5,2019-01-01T20:26:16Z
+IlIllII,,,"Seattle, Washington",,false,Software Engineer,13,327,69,2021-01-28T17:09:06Z
+jongio,Jon Gallant,MICROSOFT,"Seattle, WA",,false,Azure Developer Experience Architect,286,326,13,2012-08-16T12:38:10Z
+meganrogge,Megan Rogge,MICROSOFT,"Seattle, Washington",merogge@microsoft.com,false,,42,326,1,2017-06-15T18:12:34Z
+saadq,Saad Quadri,SOFTWARE ENGINEER @APPLE,"Seattle, WA",saadquad@gmail.com,true,Open Source 💚 ,70,323,63,2013-10-13T23:14:08Z
+ryan-roemer,Ryan Roemer,FORMIDABLELABS,"Seattle, WA",ryan.roemer@formidable.com,false,"Software geek, former patent attorney, & co-founder of @FormidableLabs. Curator of @SeaNode.",40,321,5,2010-10-19T15:04:49Z
+clarketm,Travis Clarke,FACEBOOK,"Seattle, Washington",,true,"Life == Software
+>https://keybase.io/clarketm
+",253,321,17,2014-11-26T03:51:21Z
+hhoppe,Hugues Hoppe,,"Seattle, WA, USA",,false,Computer Science Researcher (formerly Principal Scientist at Google and Research Manager at Microsoft Research).,19,320,1,2015-03-19T18:25:10Z
+loic-sharma,Loïc Sharma,GOOGLE,"Seattle, Washington",,false,Developer on the Flutter team,148,318,80,2011-04-19T00:59:24Z
+eliheuer,Eli Heuer,,"Seattle, WA",,true,Font Engineer 🛠️,301,318,382,2013-08-05T02:44:15Z
+JohnPhamous,John Pham,VERCEL,Seattle,john@pham.codes,true,"Previously breaking things @highlight-run, @MicrosoftEdge, @nasa",207,318,46,2015-11-26T05:11:00Z
+varunchitre15,Varun Chitre,,"Seattle, WA",,false,Staff Software Engineer @ Esper.IO,53,317,11,2012-09-11T17:24:38Z
+willkurt,Will Kurt,,"Seattle, WA",wckurt@gmail.com,false,"Author of ""Bayesian Statistics the Fun Way"" (No Starch, 2019) and ""Get Programming with Haskell"" (Manning, 2018). Blog about probability, Data Scientist.",29,316,31,2009-02-25T19:43:34Z
+uwdata,UW Interactive Data Lab,,"Seattle, WA",,false,Visualization + Analysis,85,315,0,2013-09-13T02:49:16Z
+FasterXML,"FasterXML, LLC",,"Seattle, WA",info@fasterxml.com,false,,68,311,0,2010-09-01T00:03:26Z
+joshtynjala,Josh Tynjala,FEATHERSUI AND @OPENFL,"Seattle, WA, USA",,true,"Frontend software developer. Codes in Haxe. Created Feathers UI, contributes to OpenFL.",58,310,16,2009-10-19T22:43:57Z
+ivanoats,Ivan Storck,GOODPADDLE @LULULEMON,"Seattle, Washington, USA",,true,"Outdoors enthusiast, Geospatial and Data Viz coder, SUP Instructor & Racer. Drone Pilot, Web Developer, Teacher and Entrepreneur. Co-founder at  @codefellows",364,309,391,2008-04-03T19:40:22Z
+tomjoht,Tom Johnson,GOOGLE,"Seattle, Washington",tomjoht@gmail.com,false,"I'm a technical writer blogger/podcaster based in Seattle, Washington.",62,309,19,2014-01-12T23:09:14Z
+darko-mesaros,Darko Mesaros,AWS,"Seattle, Washington",,false,Developer Advocate @ AWS,118,309,30,2013-10-28T13:50:23Z
+garrettmoon,Garrett Moon,EXCITED PIXEL,"Seattle, WA",garrett@excitedpixel.com,false,Building MVPs at Excited Pixel,35,306,5,2009-05-29T22:35:08Z
+ditman,David Iglesias,GOOGLE,"Seattle, WA",,false,Flutterin',30,306,21,2011-12-11T15:09:16Z
+oracle-quickstart,Oracle Quick Start,,"Seattle, WA",joseph.poczatek@oracle.com,false,Automated deployments of enterprise software on OCI.,242,305,0,2018-08-23T04:45:00Z
+wting,William Ting,STRIPE,"Seattle, WA",io at williamting.com,false,,83,303,18,2011-02-16T22:28:19Z
+rohithasrk,Rohith ASRK,META,Seattle,,true,"SWE @facebook, IIT Roorkee Alumnus 2019, 2x Google Summer of Code @openwisp, Previously @microsoft @fampay, @bidgely, @IMGIITRoorkee.",100,303,111,2015-08-16T15:44:03Z
+awood45,Alex Wood,AWS,"Seattle, WA",,false,"Developing open source tools for @aws Serverless Apps, and other related open source work.",15,303,0,2012-08-08T05:20:41Z
+ussjoin,Brendan O'Connor,"MALICE AFTERTHOUGHT, INC.","Seattle, WA",brendan@maliceafterthought.com,true,"Security, Technology, Policy, Law.",45,302,11,2008-11-04T03:22:27Z
+kzys,Kazuyoshi Kato,,"Seattle, WA",,false,"Mostly Go, sometimes Rust. He/him.",116,302,86,2008-07-31T13:51:34Z
+nellshamrell,Nell Shamrell-Harrington,,Seattle,nellshamrell@gmail.com,false,,198,301,11,2011-05-26T20:54:29Z
+armanbilge,Arman Bilge,,"Seattle, Washington",armanbilge@gmail.com,true,"Computational evolutionary biologist. I write Scala, read DNA, and speak in conditional probabilities.",379,300,150,2012-12-25T05:14:29Z
+jnolis,Jacqueline Nolis,FANATICS,"Seattle, WA",,false,Data Scientist,42,300,9,2013-01-19T21:29:57Z
+kevinslin,Kevin Lin,NIMBUSHQ,"Seattle, Washington",kevin@dendron.so,false,Kevin Lin is a software engineer who has an endless curiosity about technology and people. He likes to do work at the intersection of these two things. ,141,299,10,2010-09-21T04:19:11Z
+eagereyes,Robert Kosara,OBSERVABLE,"Seattle, WA",rkosara@me.com,false,,14,297,12,2008-08-15T20:05:58Z
+ericlippert,Eric Lippert,,"Seattle, WA, USA",ericlippert@gmail.com,false,,10,295,0,2014-10-13T16:41:15Z
+emina,Emina Torlak,UNIVERSITY OF WASHINGTON,Seattle,,false,,5,294,0,2011-06-20T01:54:07Z
+metasoarous,Christopher Small,"COMPDEMOCRACY, @THOUGHTNODE","Seattle WA, USA",chris@thoughtnode.com,true,"Founding Board Member, Research Director @compdemocracy;
+interests: #datascience, #dataviz, #compbio, #clojure, #clojurescript ",106,293,91,2009-05-26T04:00:40Z
+micahhausler,Micah Hausler,AWS,"Seattle, WA",,false,Working on EKS @ AWS,172,293,72,2011-05-16T13:42:00Z
+JamieMagee,Jamie Magee,MICROSOFT,Seattle,,false,"Programmer, Engineer, Problem Solver. Senior Software Engineer @Microsoft / @github",237,291,145,2012-01-20T15:39:56Z
+mleibman,Michael Leibman,GOOGLE,"Seattle, WA",michael.leibman@gmail.com,false,"Software engineer at @google / GCP, focusing on sandboxing, instrumentation, latency, and performance. Author of @slickgrid.",9,290,2,2009-12-17T01:13:39Z
+lvivski,Yehor Lvivski,,"Seattle, WA",yehor@lvivski.com,true,,67,289,10,2009-11-08T13:36:32Z
+spiffxp,Aaron Crickenberger,GOOGLE,"Seattle, WA",spiffxp@gmail.com,false,"Pinky and the Brain, but it's Kubernetes",183,289,14,2009-01-26T04:02:11Z
+NTaylorMullen,N. Taylor Mullen,MICROSOFT,"Seattle, WA",,false,,64,288,1,2012-07-20T00:31:57Z
+chhayac,Chhaya Choudhary,INFOBLOX,  Seattle,er.chhayachoudhary@gmail.com,true,"Data Scientist @ Infoblox | MS in Data Science from University of Washington / Data Geek!
+
+",16,288,8,2016-04-09T20:38:04Z
+cgranade,Cassandra Granade,"DUAL SPACE SOLUTIONS, LLC","Seattle, WA, United States",cgranade@dual-space.solutions,false,"Bio by https://twitter.com/DataErase. Learn quantum computing with my book, coauthored w/ @crazy4pi314: http://bit.ly/qsharp-book",101,287,168,2008-10-28T20:28:40Z
+rastenis,Matas Rastenis,UBER,"Seattle, Washington, USA",matas2k@gmail.com,true,Senior Software Engineer at Uber,32,287,720,2016-07-31T21:28:46Z
+maggiepint,Maggie Johnson-Pint,STRIPE,"Seattle, WA",maggiepint@gmail.com,false,,36,287,1,2013-11-28T00:49:00Z
+iyzhang,Irene Zhang,MICROSOFT RESEARCH,"Seattle, WA",irene.zhang@microsoft.com,false,Principal Researcher at Microsoft Research Redmond,11,286,0,2014-03-10T22:36:19Z
+hausdorff,Alex Clemmer,,Seattle,clemmer.alexander@gmail.com,false,Reconnecting Wasq'u descendent,117,285,37,2012-02-05T02:11:43Z
+scottnonnenberg-signal,Scott Nonnenberg,SIGNALAPP,"Seattle, WA",scott@signal.org,false,Developer at @signalapp working on Signal Desktop. Personal account: @scottnonnenberg,6,285,0,2018-03-01T21:14:33Z
+colinrtwhite,Colin White,CASHAPP,"Seattle, WA",colin@colinwhite.me,false,"I have a joke about recursion, but I have a joke about recursion, but I have a joke about recursion, but I have a joke about recursion, but I have a joke about",27,284,9,2013-09-30T21:15:31Z
+divega,Diego Vega,MICROSOFT,Seattle,,false,I work on Azure Networking. Former member of the EF and .NET teams (http://blogs.msdn.com/diego),16,284,14,2011-12-10T01:06:11Z
+joshspicer,Josh Spicer,MICROSOFT,"Seattle, Washington",hello@joshspicer.com,true,VS Code 🚀,249,284,113,2016-11-03T20:26:18Z
+shangzhenyang,Shangzhen Yang,,"Seattle, Washington, United States",,false,"CS Student at University of Washington.
+Seeking software engineering opportunities.",31,283,23,2016-07-18T21:55:03Z
+moznion,moznion,,"Seattle, WA",moznion@mail.moznion.net,false,,448,283,123,2012-02-09T12:23:10Z
+Gbps,Gbps,,"Seattle, WA",,false,,43,283,19,2013-10-03T23:22:55Z
+briandorsey,Brian Dorsey,,"Seattle, WA, USA",brian@dorseys.org,false,,22,282,33,2009-09-01T19:13:09Z
+dhalperi,Dan Halperin,AWS,Seattle,,false,"Batfish @ AWS
+Former head of engineering @ Intentionet",75,281,0,2010-12-16T21:40:17Z
+brookr,Brook R,CODEFELLOWS COFOUNDER,Seattle,,false,"I believe pro-grade tech skills should be accessible to all.
+
+AI Engineer + FS Dev + Data + Ops + Founder",206,281,25,2008-05-21T18:47:51Z
+alexlande,Alex Lande,FORMIDABLE,"Seattle, WA",alexlande@gmail.com,false,,30,281,0,2011-05-24T18:07:54Z
+stephjs,Steph,AMAZON,"Seattle, WA",,false,👩🏻‍💻 = 👩🏻‍🎨 + 👩🏻‍🔧 + ☕ ,66,281,22,2016-04-26T05:38:25Z
+jeffra,Jeff Rasley,SNOWFLAKEDB,"Seattle, WA",jeffra45@gmail.com,false,"@SnowflakeDB AI Research Team, 
+DeepSpeed co-founder.",43,279,0,2011-03-01T20:40:46Z
+dshean,David Shean,"UNIVERSITY OF WASHINGTON, SHEAN GEOCONSULTING","Seattle, WA",,true,,62,279,8,2011-10-05T01:10:38Z
+kirkshoop,Kirk Shoop,,"Seattle, WA",,false,,62,277,37,2011-08-16T05:02:22Z
+jcrocholl,Johann C. Rocholl,,"Seattle, WA",johann@rocholl.net,false,,18,276,0,2009-08-22T17:46:09Z
+aws-robotics,AWS Robotics,,"Seattle, WA",,false,,43,276,0,2018-11-21T17:08:27Z
+aaronbrethorst,Aaron Brethorst,,Seattle WA,,true,Executive Director of @OneBusAway. Engineering Director at @twistle ,121,276,14,2008-03-05T09:18:24Z
+jiayuasu,Jia Yu,WHEROBOTS,"Seattle, WA, USA",jiayu@apache.org,true,"Co-founder @wherobots ; former database system professor@ WSU; VP, PMC Chair @Apache Sedona; We are hiring: https://wherobots.com/careers/",93,275,7,2015-02-10T22:04:58Z
+robmikh,Robert Mikhayelyan,MICROSOFT,"Seattle, WA",rob.mikh@outlook.com,false,"Developer on the Windows Composition team. Loves all things Rust, C++, DirectX, C#, XAML, and of course, Composition.",126,275,1,2014-03-28T06:31:30Z
+chrismaddalena,Christopher Maddalena,SPECTEROPS,"Seattle, WA",chris.maddalena@protonmail.com,false,,67,275,16,2015-01-14T04:39:17Z
+JustinXinLiu,Justin Liu,MICROSOFT,"Seattle, US",justin.xin.liu@gmail.com,true,Sometimes I design and code; sometimes I code and design.,49,275,6,2012-05-06T08:32:59Z
+ckkelvinchan,Kelvin C.K. Chan,GOOGLE RESEARCH,"Seattle, Washington",kelvinckchan@outlook.com,false,,7,275,4,2014-05-23T07:21:42Z
+vinx13,Wuwei Lin,OCTOML,"Seattle, WA",wuwei@apache.org,false,,56,274,50,2014-04-06T12:20:10Z
+Barnacules,Barnacules Nerdgasm,BARNACULES NERDGASM,"Seattle, WA",,false,"🤓 Retired Microsoft SDET (Senior Software Developer in Test)
+🚢 Shipped Windows XP -through- Windows 10
+🤖 Automation, Debugging & Testing
+⌨️ Unapologetic N",8,273,7,2014-08-18T21:26:50Z
+natebosch,Nate Bosch,GOOGLE,"Seattle, WA",nbosch1@gmail.com,false,,49,272,6,2014-05-08T21:55:34Z
+crazy4pi314,Sarah Kaiser,MICROSOFT,"Seattle, WA",sckaiser@sckaiser.com,false,Sr. Cloud Developer Advocate for Python @Microsoft | Python Foundation Fellow  | Maker and breaker of many things,142,271,40,2014-01-23T22:16:27Z
+temilaj,Temi Lajumoke,AMAZON INC.,"Seattle, WA",temi@temilajumoke.com,true,"Full-stack Software and Machine Learning Engineer | Life-long Learner. |
+
+Core Languages: C# • JavaScript • TypeScript  • Python • Java",131,271,58,2014-04-08T20:55:45Z
+adw96,AmyW,UNIVERSITY OF WASHINGTON,"Seattle, WA",,false,"statistician, biodiversity enthusiast, associate professor",36,271,49,2016-03-02T13:11:51Z
+logancyang,Logan Yang,BREVILABS,Seattle,logancyang@gmail.com,true,"Software engineer, ML practitioner, ex-Uber",66,271,82,2013-06-28T04:02:03Z
+Nickersoft,Tyler Nickerson,KOJODESIGN,"Seattle, WA",tjnickerson@live.com,false,"Let's build a better future, together 🧡 
+
+Founder of @KojoDesign and @TheOpenDictionary.  Co-founder of @Linguistic.
+",87,270,87,2012-08-06T15:23:36Z
+cscherrer,Chad Scherrer,,"Seattle, WA",chad.scherrer@gmail.com,false,Probabilistic programming in Rust and Julia,124,270,211,2011-11-09T20:39:36Z
+MichaelDrogalis,Michael Drogalis,CONFLUENT,"Seattle, WA",mjdrogalis@gmail.com,false,Product manager @confluentinc. Author of @onyx-platform.,101,269,0,2011-07-16T01:55:28Z
+mtyka,Mike Tyka,GOOGLE,Seattle,mike.tyka@gmail.com,false,,35,269,4,2011-11-02T03:59:34Z
+alexngn,alexcancode,,"Seattle, WA",,false,,7,268,0,2018-07-12T19:11:45Z
+JasonQSY,Shengyi Qian,META FAIR,"Seattle, WA",syqian@meta.com,false,"Research Scientist at Meta FAIR @facebookresearch | Computer Vision, NLP, Robotics | CS PhD @UMich",51,268,223,2015-10-28T11:25:18Z
+rjleveque,Randall J. LeVeque,UNIVERSITY OF WASHINGTON,Seattle,,false,,98,268,0,2011-04-10T04:50:33Z
+coderholic,Ben Dowling,IPINFO,"Seattle, WA",ben@ipinfo.io,false,"Founder of https://ipinfo.io - previously CTO at calm.com, engineer at Facebook, and engineer at various startups in the UK.",25,264,24,2008-09-24T11:50:27Z
+mapsam,Sam Matthews,,Seattle,,true,,149,263,298,2012-07-09T13:48:41Z
+tgaddair,Travis Addair,UBER,"Seattle, WA",tgaddair@gmail.com,false,"CTO @ Predibase, Horovod and Ludwig.AI maintainer",22,263,0,2012-05-15T16:52:05Z
+jaxxstorm,Lee Briggs,,Seattle,,true,,385,263,116,2012-04-08T11:02:19Z
+aria42,Aria Haghighi,,"Seattle, CA",,false,,46,263,5,2008-10-27T00:13:31Z
+edemkumodzi,Edem Kumodzi,MICROSOFT,Seattle,edem@kumodzi.com,true,"Program Manager / Tech Lead / Backend Dev -
+Ruby [Rails]
+",6,263,17,2011-03-18T09:35:32Z
+bitwiseman,Liam Newman,,"Seattle, WA, USA",bitwiseman@gmail.com,false,,212,261,12,2012-07-11T20:38:33Z
+compdemocracy,The Computational Democracy Project,,"Seattle, WA",hello@compdemocracy.org,false,"We bring data science to deliberative democracy, so that governance may better reflect the multidimensionality of the public's will.",9,260,0,2020-09-30T22:32:07Z
+Jack-Anstey,Jack Anstey,,"Seattle, Washington",jackajacka@outlook.com,false,"@github Campus Expert Alum. Computer Science, Political Science & Math Alum from Emory University.",12,260,10,2017-05-31T23:47:32Z
+laylalaisy,Layla Laisy,ZJU X UIUC,"Hangzhou, CN x Seattle, US",layla.laisy@gmail.com,true,Hi! I'm Layla. ,31,260,89,2016-05-11T10:46:01Z
+caelan,Caelan Garrett,NVIDIA RESEARCH,"Seattle, WA",,false,Research Scientist at NVIDIA's Seattle Robotics Lab,35,259,117,2013-02-17T23:30:31Z
+jason718,Jason Ren,APPLE,Seattle,renzhzh@gmail.com,true,Brain and eye,11,258,140,2013-01-10T13:57:37Z
+A-And,Andon Andonov,MICROSOFT,"Seattle, WA",anandono@microsoft.com,false,,21,257,13,2014-02-07T18:43:19Z
+leondz,Leon Derczynski,NVIDIA · ITU COPENHAGEN,Copenhagen · Seattle,leonderczynski@gmail.com,false,prof / scientist in cs / nlp / ml,83,257,23,2009-09-01T14:47:38Z
+dennyglee,Denny Lee,DATABRICKS,"Seattle, WA",denny.g.lee@gmail.com,false,"data dork, scribe, geek, ultimate frisbee fan, mountain climber (barely!), wanna be cyclist... occasionally awake",148,256,21,2012-02-17T14:41:51Z
+fredhohman,Fred Hohman,APPLE,"Seattle, WA",fredhohman@apple.com,false,HCI + ML Research Scientist @apple.,24,255,100,2013-10-21T22:11:10Z
+brianm,Brian McCallister,,"Seattle, WA",brianm@skife.org,false,,141,254,39,2008-02-27T23:16:48Z
+seanmiddleditch,Sean Middleditch,,"Seattle, WA",,false,Software engineer in the games industry. These are my personal works and are neither endorsed by nor related to my employer.,39,254,41,2012-06-05T01:06:24Z
+tiffanyfay,tiffany jernigan,,"Seattle, WA",,true,,103,254,7,2015-05-06T21:56:02Z
+vgel,Theia Vogel,SECUREDNA,"Seattle, United States",theia@vgel.me,true,,63,253,4,2011-08-15T02:19:59Z
+eric,Eric Lindvall,FANCYBITS,"Seattle, WA",eric@5stops.com,false,,210,253,42,2008-02-20T00:45:54Z
+NotWoods,Tiger Oakes,MICROSOFT,"Seattle, WA, USA",contact@tigeroakes.com,false,Senior web dev who makes weird tech projects out of things lying around my house. Prev worked on https://maskable.app & 3 browsers.,182,251,96,2012-05-27T06:15:40Z
+calebrob6,Caleb Robinson,MICROSOFT,"Seattle, WA",Caleb.Robinson@microsoft.com,false,Research Scientist at Microsoft AI for Good,49,249,45,2011-09-28T20:58:17Z
+agocke,Andy Gocke,MICROSOFT,"Seattle, WA",,false,"Dev lead for CLR startup, IL trimming, and NativeAOT.",99,249,8,2010-12-09T05:18:03Z
+xuhdev,Hong Xu,,Greater Seattle Area,hong@topbug.net,false,(ksu-dev),238,249,71,2010-07-07T16:01:26Z
+ProQuestionAsker,Amber Thomas,,"Seattle, WA",,false,"Data Visualization Engineer at USAFacts
+",21,248,0,2015-02-15T21:19:46Z
+f5devcentral,F5 DevCentral,,"Seattle, WA ",,false,Community Supported Repos,455,248,0,2016-04-06T19:43:25Z
+anakryiko,Andrii Nakryiko,FACEBOOK,"Seattle, WA",,false,,21,248,5,2010-12-03T14:35:27Z
+ashblue,Ash Blue,,"Seattle, WA",ash@blueashes.com,false,Web application and Unity3D developer.,116,247,24,2011-02-28T19:50:20Z
+F5Networks,F5,,Seattle,,false,F5 Software:See https://support.f5.com/csp/article/K80012344 for the list of supported projects. See https://www.github.com/f5devcentral for Community Solutions,80,246,0,2014-09-27T04:39:42Z
+jpeddicord,Jacob Peddicord,PERSONIO,Seattle,,false,computer person and anthropomorphized blob of snow,17,246,24,2009-06-14T21:22:27Z
+mothran,Parker Thompson,,Seattle,,false,,25,246,15,2012-08-14T23:31:48Z
+azenla,Alex Zenla,EDERA-DEV,"Seattle, WA",alex@fork.run,false,"Founder / CTO of Edera, Software Nerd",16,246,279,2012-08-10T16:25:21Z
+shirhatti,Sourabh Shirhatti,UBER,"Seattle, WA",sourabh@mail.shirhatti.com,false,Product Manager at  @uber | Ex-@dotnet and @aspnet at @microsoft | UT Austin Alumnus | Bengaluru native,134,246,4,2013-06-19T03:58:40Z
+andreiz,Andrei Zmievski,,"Seattle, WA",andrei@zmievski.org,true,,13,245,22,2008-12-16T18:14:20Z
+sbaer,Steve Baer,ROBERT MCNEEL & ASSOCIATES,"Seattle, WA",steve@mcneel.com,false,,21,243,12,2010-12-10T19:04:59Z
+stympy,Benjamin Curtis,"TESLY, LLC","Seattle, WA",ben@bencurtis.com,true,Tech entrepreneur and co-founder of Honeybadger.io,70,243,6,2008-02-27T13:53:24Z
+JasonKessler,Jason S. Kessler,PERSONAL ACCOUNT,"Seattle, WA",jason.kessler@gmail.com,false,Building tools to help people make sense of large collections of text. Views and software are my own.,63,242,21,2010-06-23T17:18:07Z
+AmieDD,Amie DD,MICROSOFT,Seattle,amie@amiedd.com,false,"
+    //Hacker of Things
+",109,242,78,2014-05-22T13:13:24Z
+rlabrecque,Riley Labrecque,,"Seattle, WA",,false,,48,241,37,2012-07-26T15:31:10Z
+jefflembeck,Jeff Lembeck,,"Seattle, WA",jeff@jefflembeck.com,false,,106,240,2,2009-07-29T03:19:21Z
+ehashman,Elana Hashman,APPLE,"Seattle, WA",,false,See more of my FOSS work at https://salsa.debian.org/ehashman,89,240,0,2013-06-15T17:06:10Z
+dshafik,Davey Shafik,AVAILABLE FOR HIRE!,"Seattle, WA",davey@php.net,true,Davey Shafik is a full-time developer with 25 years of experience as a technical polyglot with a focus on PHP and related technologies. ,155,239,12,2009-02-26T03:59:33Z
+erjohnso,Eric Johnson,GOOGLE,"Seattle, WA USA",erjohnso@google.com,false,,44,239,30,2012-08-15T00:34:42Z
+krisselden,Kris Selden,LINKEDIN,"Seattle, WA",kselden@linkedin.com,false,,128,239,18,2009-03-07T09:03:41Z
+arsentieva,Anna Arsentieva,,Seattle,,false,Passionate about writing software that solves problems in a creative way,28,238,33,2020-03-12T21:41:30Z
+davepeck,Dave Peck,LITERALGARAGE,"Seattle, WA",davepeck@gmail.com,false,Independent software developer @literalgarage.,22,237,54,2009-02-09T23:14:13Z
+grantr,Grant Rodgers,GOOGLE,"Seattle, WA",grantr@gmail.com,false,,109,237,2,2008-02-23T17:37:28Z
+elalish,Emmett Lalish,,Seattle,,false,,8,236,0,2012-04-16T22:45:06Z
+Plazmaz,Dylan Katz,UNITY TECHNOLOGIES,Seattle,,false,I enjoy messing with things until they break/work!#a=7*7||’<!--${7*7}<#--{#{{!--#}#{7*7}${{7*7}}-->[=7*7] {{__proto__}}--}}{{this}}#set($x=7*7)$x ,64,236,30,2012-01-15T03:02:19Z
+chipturner,Chip Turner,,"Seattle, WA",cturner@pattern.net,false,,24,235,0,2011-02-04T20:56:29Z
+codefellows,Code Fellows,,"Seattle, WA",,false,Learn to Code. Get a Job. Start Here.,681,235,0,2013-03-19T00:37:21Z
+hollenberry,Eric Hollenberry,,"Seattle, WA",,false,"Director, GTM Enablement @ :octocat:  ",63,234,47,2015-07-14T04:37:15Z
+colmmacc,Colm MacCárthaigh,AMAZON WEB SERVICES / APACHE SOFTWARE FOUNDATION,Seattle,colm@apache.org,false,,41,234,1,2009-12-27T12:12:40Z
+ItalyPaleAle,Alessandro (Ale) Segala,MICROSOFT,"Seattle, WA",,false,,187,234,9,2008-12-31T14:44:59Z
+melaniewalsh,Melanie Walsh,,"Seattle, WA",,false,"Faculty at University of Washington iSchool // Digital humanities, cultural analytics, literature, social media",65,232,19,2016-07-06T18:09:35Z
+xiw,Xi Wang,,"Seattle, WA",,false,,31,232,0,2011-05-21T02:31:36Z
+fabiorocha,Fabio Rocha,MICROSOFT,"Seattle, WA",,true,"Software Engineering Manager building tools for web devs @ Microsoft.
+
+Opinions are my own.",5,231,4,2012-04-28T01:12:24Z
+xieliaing,Liang Xie,,"SEATTLE, WA",,false,"
+The other me : https://github.com/oloolo
+",54,230,8,2014-11-19T06:22:48Z
+bharatsingh430,Bharat Singh,CRUISE,Seattle,,false,,7,229,7,2013-11-12T01:32:14Z
+kimdhamilton,Kim Hamilton Duffy ,,"Seattle, WA",kimdhamilton@gmail.com,false,"Executive Director, Decentralized Identity Foundation @decentralized-identity ",99,228,10,2013-03-22T23:18:16Z
+DinoChiesa,Dino Chiesa,GOOGLE (APIGEE),"near Seattle, Washington, USA",TheRealDinoChiesa@gmail.com,false,APIs = digital,184,228,6,2010-04-26T16:28:03Z
+DeNeutoy,Mark Neumann,ORBITAL MATERIALS,Seattle,,true,"Research and Engineering at Orbital Materials. Making deep nets do stuff.
+
+BC: Allen Institute for AI - ELMo, AllenNLP, Scispacy.",71,227,10,2015-11-24T15:40:42Z
+pelikhan,Peli de Halleux,MICROSOFT,"Seattle, WA",,false,"Working on GenAIScript, DeviceScript, microcode, Jacdac, Founder of Microsoft MakeCode (micro:bit, Arcade, Circuit Playground Express, Minecraft).",153,226,21,2013-04-16T23:36:56Z
+abgoswam,Abhishek Goswami,MICROSOFT,Seattle,,false,,50,226,0,2014-09-18T16:33:00Z
+rob0rt,Robert Lynch,ALASKAAIRLINES,"Seattle, WA",,false,,17,226,47,2012-12-17T22:30:17Z
+bhollis,Ben Hollis,"STATELY CLOUD, INC.","Seattle, WA",ben@benhollis.net,false,,64,225,7,2010-06-24T00:54:51Z
+jmesserly,Jenny Messerly,,"Seattle, WA",,false,"She's hacked on many compilers over the years (C#, VB, Python, Ruby, JS/ES6, M, Dart, to name a few). Currently works on @dart-lang's transpiler and inference.",22,225,1,2011-09-26T19:28:11Z
+joshfree,Josh Free,MICROSOFT,"Seattle, WA",,false,Engineering Manager on the Azure SDK team at Microsoft. Previously on .NET Base Class Libraries.,21,224,146,2012-01-04T03:16:03Z
+fancymax,max lin,SNAP INC.,Seattle,lindahai0512@gmail.com,false,Hope is a good thing,24,224,69,2011-06-12T10:12:36Z
+scottnonnenberg,Scott Nonnenberg,SIGNALAPP,"Seattle, WA",scott@nonnenberg.com,false,"I've got a relatively wide perspective, due to a variety of roles/employers/clients. He/him. Happy to mentor. Work account: @scottnonnenberg-signal",12,224,2,2010-10-17T18:50:22Z
+geoffrich,Geoff Rich,,"Seattle, WA",,false,@sveltejs team member and pianist.,83,223,6,2013-07-11T21:45:13Z
+romanbb,Roman Birg,,"Seattle, WA",romanbirg@gmail.com,false,,38,223,26,2010-10-09T05:28:31Z
+alex-mohr,Alex Mohr,GOOGLE,Seattle,,false,,9,223,2,2014-09-10T22:10:16Z
+drub0y,Drew Marsh,"FANATICS, INC.","Seattle, WA",,false,Sr Principal SDE - Fanatics Betting & Gaming,33,222,40,2010-05-22T14:21:04Z
+cidrblock,Bradley A. Thornton,SELF,"Seattle, WA",bthornto@redhat.com,false,"Everything in code, especially the network.",178,222,16,2016-04-11T00:42:24Z
+williaster,Chris Williams,AIRBNB,"Seattle, WA",,false,Data Visualization engineer @ Airbnb,21,221,2,2013-05-22T06:31:53Z
+plamoni,Pete,GOOGLE,"Seattle, WA",,false,,26,221,7,2010-06-15T18:39:47Z
+tnachen,Timothy Chen,ESSENCEVENTURECAPITAL,"Seattle, WA",,false,,117,220,23,2009-03-25T22:51:54Z
+thagomizer,Aja,,Seattle,,false,,65,220,1,2010-11-12T19:08:51Z
+c5inco,Chris Sinco,GOOGLE,"Seattle, WA",csinco@google.com,false,Interaction Designer @google on Android Developer Tools,47,219,49,2011-12-10T00:57:47Z
+leggett,Michael Leggett,SIMPLIFY,"Seattle, WA",hi@simpl.fyi,false,"Maker of simpl.fyi and owner of ramped.co (climate work)
+
+Previously ran product and/or design for Nori.com, Gmail, Android, FB Messenger & more.",9,219,4,2014-09-13T22:39:34Z
+andrewiggins,Andre Wiggins,AIRBNB,Seattle,,false,,137,219,61,2010-10-29T18:35:11Z
+mousetraps,Sara Itani,QUIXOTICLABS,"Seattle, WA",itani@outlook.com,false,Founder & CEO @QuixoticLabs,52,218,0,2011-05-02T05:37:03Z
+runrunbear,Ran,"TIKTOK, EX-AMAZON",Seattle,,true,"
+    生活需要继续，重新整理一下～
+",39,218,1,2015-11-10T06:40:14Z
+benhillis,Ben Hillis,MICROSOFT,"Seattle, WA",,false,,11,217,0,2016-03-08T16:13:43Z
+nquinlan,Nick Quinlan,WASHINGTON BUSINESS WEEK,"Seattle, WA",nick@nicholasquinlan.com,false,"Executive Director @WashingtonBusinessWeek.
+
+Former COO @MLHacks.",96,217,51,2011-06-04T19:54:07Z
+74hc595,Matt Sarnoff,,"Seattle, WA",,false,"microcontroller projects, retrocomputing, embedded linux, python, node.js, cat",37,217,0,2010-10-22T17:59:54Z
+stellaraccident,Stella Laurenzo,AMD,"Seattle Washington, US",,false,,67,217,7,2010-11-24T00:14:33Z
+liquidmetal,Utkarsh Sinha,GOOGLE,"Seattle, WA",,true,,70,216,237,2011-05-15T04:43:52Z
+JonathanRaiman,Jonathan Raiman,"NVIDIA (EX @OPENAI, @BAIDU-RESEARCH)","Seattle, WA",,false,,57,216,6,2012-02-06T01:20:29Z
+japacible,japacible,GOOGLE,Seattle,,false,,56,215,9,2011-10-17T21:20:08Z
+dstnbrkr,Dustin Barker,FACEBOOK,"Seattle, WA",dustin.barker@gmail.com,false,iOS at Instagram,14,214,143,2008-11-04T18:54:59Z
+skinny85,Adam Ruka,APPLE,"Seattle, WA",,false,Full-stack developer at Apple. Previously at Amazon (AWS) on the CDK team.,46,213,1,2010-10-30T17:32:11Z
+adamthom,Adam Thomas,AMAZON WEB SERVICES,"Seattle, WA",,false,,2,213,0,2011-09-06T18:35:49Z
+ionvision,Xuejian Rong,FACEBOOK,Seattle,,false,@facebookresearch,160,213,327,2012-10-19T10:26:10Z
+iambmelt,Brian Melton-Grace,MICROSOFT,"Seattle, WA",,false,,13,212,354,2011-08-19T02:03:08Z
+khenidak,Khaled Henidak (Kal),MICROSOFT,"Seattle, WA",khnidk@outlook.com,false,,65,212,0,2015-01-24T11:03:56Z
+LeeHolmes,Lee Holmes,,"Seattle, WA",github@leeholmes.com,false,,52,212,6,2015-03-14T14:34:04Z
+justinweiss,Justin Weiss,AHA-APP,"Seattle, WA",justin@justinweiss.com,false,,65,211,12,2008-02-27T02:41:03Z
+fulghum,Jason Fulghum,DOLTHUB,"Seattle, WA",,false,,20,211,25,2010-01-31T20:20:31Z
+dzharii,Dmytro Zharii,,"Seattle, WA",,true,,47,209,41,2008-11-22T14:30:17Z
+xiongchenyan,Chenyan Xiong,,Seattle,,true,Associate Professor at CMU,67,209,19,2012-11-07T20:23:53Z
+samruddhikhandale,Samruddhi Khandale,MICROSOFT @GITHUB @DEVCONTAINERS,"Seattle, Washington",,false,Building GitHub Codespaces! ✨ ,99,208,0,2017-01-06T09:29:55Z
+AndrewSouthpaw,Andrew Smith,GATHERTOWN,"Seattle, WA",andrewsmith@alumni.stanford.edu,false,Staff software engineer building the metaverse @ Gather. Teaches software engineering and social dancing around the world.,156,208,123,2013-08-08T04:58:46Z
+brandonjbjelland,Brandon J. Bjelland,PROTECTAI,"Seattle -> St. Paul, MN",,true,Multiplier,90,207,123,2012-10-06T21:42:52Z
+huntergdavis,huntergdavis,HUNTERDAVIS.COM,"Seattle, Wa",hunter@hunterdavis.com,false,,122,206,9,2011-08-22T22:02:04Z
+dougz,Doug Zongker,,"Seattle, Washington, USA",dougz@isotropic.org,false,,16,205,1,2010-11-24T04:23:53Z
+blackfalcon,Dale Sande,ALASKA AIRLINES,"Seattle, WA",dale.sande@gmail.com,false,Principal engineer overseeing the Auro Design System architecture and development. ,174,205,18,2010-01-13T00:47:28Z
+rschwabco,Roie Schwaber-Cohen,PINECONE,"Seattle, WA",roie.cohen@gmail.com,false,Staff Developer Advocate @ Pinecone,146,205,144,2010-05-15T10:06:51Z
+znation,Zach Nation,HUGGINGFACE,"Seattle, WA",zach@huggingface.co,false,Software Engineer @huggingface,26,205,117,2013-10-12T21:17:16Z
+cgillum,Chris Gillum,MICROSOFT,"Seattle, Washington",,false,"Partner Software Architect at Microsoft. Creator of Azure Durable Functions, Easy Auth, and Dapr Workflow.",44,204,7,2012-11-02T03:37:44Z
+EntilZha,Pedro Rodriguez,"FACEBOOKRESEARCH, FAIR LABS","Seattle, WA",me@pedro.ai,true,"Research Scientist @ FAIR Labs (@facebookresearch)
+NLP, Retrieval-Augmented Language Models, QA, Data + Eval; PhD in CS from UMD, Berkeley CS Grad;",121,204,0,2012-01-26T16:24:30Z
+sofiadparamo,Sofía D. Páramo,MICROSOFT,"Seattle, WA",hi@iamso.fi,true,"🚩 GitHub Campus Expert
+💻 Software Engineer @ msft
+🎓 Graduate with Honors in B.S. in Computer Science from Tec de Monterrey
+🏳️‍⚧️☁ Daydreamer",29,202,59,2014-05-01T04:17:44Z
+PlayFab,PlayFab,,"Seattle, WA",info@playfab.com,false,PlayFab is a backend-as-a-service for games.,62,202,0,2014-05-19T19:07:40Z
+jperl,Jon Perl,QA WOLF,"Seattle, WA",perl.jonathan@gmail.com,false,ceo @ qa wolf,160,202,319,2011-10-18T20:00:52Z
+arxanas,Waleed Khan,,"Seattle, WA",me@waleedkhan.name,false,Working on scalable developer tooling.,50,201,7,2010-10-26T03:29:42Z
+mbucchia,Matthieu Bucchianeri,,"Seattle, Washington, United States",,false,"Experienced Software Engineer | Xbox | SpaceX | PlayStation | VMware ---
+
+Stuff I worked on: OpenXR, WMR, PlayStation 4, PSVR, Falcon 9, Crew Dragon",43,201,0,2020-08-13T01:23:26Z
+ylegall,Yann Le Gall,,Seattle WA,ylegall@gmail.com,true,,29,201,49,2010-05-04T17:43:50Z
+maxkatz6,Max Katz,,"Seattle, WA",,true,.NET XAML,22,201,36,2013-01-01T12:48:06Z
+haotian-wang,Haotian Wang,,Seattle,,true,"Stay Young, Stay Simple.",1,201,2,2016-03-04T02:59:53Z

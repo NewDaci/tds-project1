@@ -2,7 +2,7 @@ import requests
 import csv
 import sys
 
-token="paste ur token here"
+token="here"
 headers = {"Authorization": f"token {token}"}
 
 # run this for 4 times to extract all the data
@@ -10,7 +10,7 @@ headers = {"Authorization": f"token {token}"}
 # here page will run from 1 to 4 that will extract all 379 users of paris with more than 200 followers.
 
 page_number = 1
-location="Shanghai"
+location="Paris"
 followers="200"
 base_url = f'https://api.github.com/search/users?q=location:{location} followers:>{followers}&per_page=100&page={page_number}'
 

@@ -1,0 +1,455 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+nicknochnack,Nicholas Renotte,,"Sydney, Australia",,false,Data Science guy @IBM,193,11685,5,2013-11-15T15:06:35Z
+brendangregg,Brendan Gregg,INTEL,"Sydney, Australia",,false,Cloud computing performance engineer.,42,8022,0,2011-10-04T08:48:56Z
+cornflourblue,Jason Watmore,POINT BLANK DEVELOPMENT,Sydney Australia,,false,"Web Developer and Blogger, currently focusing on Angular, React, Vue, Node and .NET     
+                
+...also travel vlogging at youtube.com/TinaAndJason",187,6701,0,2011-05-13T04:38:16Z
+0vm,Ak,,"Sydney, Australia",,true,erm hai,10,6567,3,2021-03-02T06:55:10Z
+davecheney,Dave Cheney,GITHUB,"Sydney, Australia",,false,I service society by rocking.,163,6557,42,2008-04-14T04:00:20Z
+JedWatson,Jed Watson,THINKMILL,Sydney,,false,,100,4626,25,2011-06-24T02:12:21Z
+dragen1860,Jackie Loong,,Sydney,,true,"Make machines behave like me.
+
+liangqu.long@gmail.com",74,3062,22,2013-04-25T06:18:41Z
+thombergs,Tom Hombergs,ATLASSIAN,Sydney,tom.hombergs@gmail.com,false,Software Developer and Open Source Enthusiast at @atlassian / ex-@adessoAG ,111,2502,31,2012-01-21T15:18:16Z
+DmitryBaranovskiy,Dmitry Baranovskiy,ADOBE,"Sydney, Australia",dmitry@baranovskiy.com,false,JavaScript Artist,14,2477,15,2008-09-01T07:35:49Z
+redguardtoo,Chen Bin,WORKING,Sydney,,true,"C developer in China, Javascript developer in Australia",69,2238,125,2010-01-18T11:33:08Z
+sanjay-kv,Sanjay Viswanathan,MACQUARIE UNIVERSITY,"Sydney, Australia",sanjay@recodehive.com,true,"Data Engineer | Macquarie University 🎓
+Founder at recodehive.com | 
+ML • AI
+",118,2078,214,2017-08-04T05:31:36Z
+Canva,Canva,,"Sydney, Australia",community@canva.com,false,,29,2036,0,2012-10-15T08:03:46Z
+orhanobut,Orhan Obut,ATLASSIAN,"Sydney, Australia",orhanobut@gmail.com,true,Architect | ex Android GDE,19,1887,15,2011-09-29T11:23:03Z
+tonybaloney,Anthony Shaw,MICROSOFT,"Sydney, Australia",,false,"0.10X developer. Python Advocate at Microsoft. Python Software Foundation Fellow. Fellow of Macquarie University, Sydney",316,1881,144,2012-03-13T10:59:30Z
+dmytrodanylyk,Dmytro Danylyk,ATLASSIAN,"Australia, Sydney",dmytrodanylyk@gmail.com,true,Hello. I am Android/Kotlin Google Developer Expert. I live in Sydney - a quaint and beautiful city. I am passionate about android and flat design.,30,1821,3,2012-11-19T16:54:38Z
+MaryamAustralia,Maryam,INFOTRUM,"Sydney, Australia",,true,"Owner & Senior Director at @infotrum, a web design company - Contribute to @rFramework & @rScriptJS  - Find me on Twitter & Instagram @MaryamAustralia",1,1681,2494,2017-03-08T08:31:28Z
+haskellcamargo,Marcelo Camargo,CANVA,"Sydney, Australia",mcamargo@canva.com,false,Porch goose,93,1611,195,2014-05-12T02:22:06Z
+jpillora,Jaime Pillora,,"Sydney, Australia",dev@jpillora.com,false,,275,1570,76,2011-02-23T11:59:12Z
+adg,Andrew Gerrand,GOOGLE INC.,"Sydney, Australia",adg@golang.org,false,,26,1444,0,2014-08-14T08:09:35Z
+SamSaffron,Sam,DISCOURSE,"Sydney, Australia ",sam.saffron@gmail.com,false,,153,1393,1,2008-04-05T01:04:32Z
+alecthomas,Alec Thomas,,"Sydney, Australia",alec@swapoff.org,false,,156,1307,5,2008-12-20T09:07:01Z
+johndpope,John D. Pope,,Sydney,jp@bellgeorge.com,false,"Former software engineer turned AI coding supervisor.
+",9006,1092,7879,2010-05-28T16:01:05Z
+djnavarro,Danielle Navarro,,"Sydney, Australia",djnavarro@protonmail.com,false,Data scientist. Former academic. Occasional generative artist,227,1075,50,2012-11-26T22:41:34Z
+JayZeeDesign,Jason Zhou,,Sydney,,false,Jason Zhou,25,1050,0,2016-09-29T22:47:20Z
+tamim,Tamim Shahriar,,"Sydney, Australia",,true,,12,1022,0,2011-11-01T23:32:36Z
+dformoso,Daniel Martinez Formoso,GOOGLE,"Sydney, Australia",Daniel.martinez.formoso@gmail.com,false,Google Research Program Manager,6,980,2,2012-12-03T20:15:38Z
+domesticmouse,Brett Morgan,FLUTTER,"Sydney, Australia",brett.morgan@gmail.com,false,,375,976,70,2008-10-23T01:33:14Z
+hugobowne,Hugo Bowne-Anderson,OUTERBOUNDS,Sydney,,false,,50,964,3,2013-04-17T14:43:52Z
+stevemao,Steve Mao,,Sydney,,false,"Maker, builder, technologist 
+",498,960,1087,2014-01-04T07:47:27Z
+kaloraat,Ryan (Narayan) Dhungel,KALORAAT,Sydney Australia,,false,Web Developer,66,923,3,2015-11-07T11:17:42Z
+iann0036,Ian Mckay,KABLAMOOSS,"Sydney, NSW",contact@ianmckay.com.au,true,DevOps dude from Sydney 🇦🇺 | AWS Community Hero & Ambassador | Breaks basically everything,158,880,175,2013-05-11T04:54:55Z
+aussieBIMguru,Gavin Crump,BIM GURU,"Sydney, Australia",,false,I create educational videos about BIM on my Youtube channel,18,876,5,2019-12-14T03:31:37Z
+cironunes,Ciro Nunes,,Sydney,ciroanunes@gmail.com,false,,123,862,71,2010-11-06T08:33:12Z
+matthewpalmer,Matthew Palmer,,"Sydney, Australia",hello@matthewpalmer.net,true,,80,828,0,2012-07-03T10:05:08Z
+unruledboy,Wilson Chen,DEV YEAH,"Sydney, Australia",,false,"GWBASIC since 1993, used .NET 1.0 beta in 2002, 5M+ downloads of my apps. Seasoned stack commando, overflow stack: web, DB, cloud, mobile and big data and all!",18,822,2,2011-03-22T01:16:26Z
+torifat,Rifat Nabi,ATLASSIAN,"Sydney, Australia",,true,🖥,197,820,109,2010-02-22T17:18:44Z
+ndleah,Leah Nguyen,,"Sydney NSW, Australia",nduongthucanh@gmail.com,true,Data Engineer 👩‍💻 ◦ Stackoverflow Researcher 🔥,40,808,34,2021-04-25T12:35:33Z
+MaikuB,Michael Bui,,"Sydney, Australia",,false,A developer with a keen interest in building cross-platform applications,42,803,8,2017-01-21T09:39:34Z
+bokkypoobah,pornadocash.eth@onlyfan.eth lovenotwar.eth,BOK CONSULTING PTY LTD,"Sydney, Australia",bokky.poobah@bokconsulting.com.au,false,"Actuary, consultant, quant developer & Ethereum fanatic. Unemployable",213,799,0,2016-02-08T11:20:54Z
+dsymonds,David Symonds,CANVA,"Sydney, Australia",,false,"@Canva.
+Formerly @atlassian, @stripe, @google.
+",35,797,14,2008-10-28T19:35:47Z
+aaronpowell,Aaron Powell,MICROSOFT,"Sydney, Australia",me+github@aaron-powell.com,false,"I work @microsoft in the .NET on Azure Advocacy team, trying to make building .NET apps for Azure better than ever before.",269,743,0,2010-10-10T08:05:27Z
+huonw,Huon Wilson,XOFLARE,"Sydney, Australia",wilson.huon@gmail.com,false,"@xoflare, @pantsbuild 
+Formerly: @data61, Swift frontend @apple, core team @rust-lang",316,717,10,2011-11-18T07:01:06Z
+eudoxia0,Fernando Borretti,,"Sydney, Australia",fernando@borretti.me,false,"Interests: compilers, programming language theory, chemistry, atomically-precise manufacturing, formal systems.",75,709,133,2012-04-04T16:25:17Z
+theKashey,Anton Korzunov,ATLASSIAN,Sydney,thekashey@gmail.com,false,"Born. Code. Die. [Refactor.] 
+Repeat.
+Husband of @thearnica",204,702,106,2011-01-25T10:19:30Z
+geshan,Geshan Manandhar,SIMPLYWALLST,"Sydney, Australia",,true,Senior Software Engineer | Agile Follower | Speaker | Google Developer Expert | Docker Captain,203,695,35,2009-12-21T15:25:14Z
+samthor,Sam Thorogood,,"Sydney, Australia",,false,,105,673,58,2009-08-25T07:02:42Z
+GrahamDumpleton,Graham Dumpleton,,"Sydney, Australia",,false,,20,656,0,2010-12-03T07:06:27Z
+upsuper,Xidorn Quan,CANVA,"Sydney, Australia",github@upsuper.org,false,,57,643,101,2010-07-16T06:20:23Z
+datawithdanny,Danny Ma,DATA WITH DANNY,"Sydney, Australia",,false,Join the DWD Family ❤️,17,641,0,2017-12-19T11:03:03Z
+pixegami,Pixegami,,"Sydney, Australia",,false,I make tech projects and tutorials 🛠️ Tech Stack: Python | NextJS | AWS | GenAI,58,585,0,2020-12-02T08:36:14Z
+sampotts,Sam Potts,,"Sydney, Australia",sam@potts.es,false,UI Designer & Developer,25,582,29,2011-04-09T11:25:50Z
+Raathigesh,Raathi Kugarajan,ATLASSIAN,"Sydney, Australia",,false,🏗️ Building dev tools to make programming a little more fun,54,576,176,2012-12-23T06:09:30Z
+SaitoWu,Xin Wu,,Sydney,,false,🏢 Co-Founder of podwise.ai | 🏁 Gitlab alumni | ⌨️ Programmer,26,562,34,2010-07-30T04:28:55Z
+futureshocked,Peter Dalmaris,TECH EXPLORATIONS,Sydney,peter@txplore.com,false,"Peter Dalmaris is an educator, electrical engineer, electronics hobbyist, and Maker. Creator of online video courses on DIY electronics and author.",67,560,2,2008-09-19T01:06:36Z
+abdulla,Abdulla Kamar,,"Sydney, Australia",,false,,2,559,0,2009-03-14T02:58:16Z
+boyter,Ben Boyter,,Sydney,,false,Codemonkey,91,558,54,2011-02-11T03:53:40Z
+thomaseizinger,Thomas Eizinger,,"Sydney, Australia",thomas@eizinger.io,false,Decent developer striving for ever greater habits. Loves @rust-lang. Co-Creater of @nobt-io. Securing traffic at @firezone.,311,555,59,2013-09-18T12:36:08Z
+TakuSemba,TakuSemba,BILL,"Sydney, Australia",takusemba.ele@gmail.com,false,"ex: CyberAgent.Inc, AbemaTv.Inc.
+current: BILL",62,543,29,2015-08-25T04:37:48Z
+davidgilbertson,David Gilbertson,,"Sydney, Australia",,false,,118,534,6,2013-05-16T02:56:37Z
+pksjce,Pavithra Kodmad,,"Sydney, Australia",,false,Learning design systems,82,529,38,2010-09-27T08:10:52Z
+leaanthony,Lea Anthony,,"Sydney, Australia",lea.anthony@gmail.com,false,Creator of Wails: https://wails.io. Co-creator of xbar: https://getxbar.com. Hardcore Gopher.,178,526,100,2012-07-09T16:32:53Z
+soarcn,Kai Liao,,Sydney,soarcn@gmail.com,true,,12,518,40,2012-04-05T05:55:17Z
+jossmac,Joss Mackison,THINKMILL,"Sydney, Australia",,false,"Front-end developer, mainly React. Passionate about design-systems, with an emphasis on user experience and accessibility.",28,512,12,2012-11-06T00:11:51Z
+soyelmnd,Minh Nguyen,,Sydney,minhnd.it@gmail.com,true,,15,508,4486,2012-10-29T19:36:37Z
+jnothman,Joel Nothman,CANVA,Sydney,,false,"Software engineer specialising in 
+NLP and applied data science",123,491,4,2009-04-28T16:09:23Z
+HamishMW,Hamish Williams,QWILR,"Sydney, Australia",,false,Designer + developer,6,489,7,2014-01-06T23:04:16Z
+rodjek,Tim Sharpe,,"Sydney, Australia",tim@sharpe.id.au,true,,121,481,0,2009-05-04T03:28:14Z
+tiagomatosweb,Tiago Matos,,Sydney - NSW - Australia,,false,,58,479,11,2013-01-24T18:47:38Z
+Hujjat,Hujjat Nazari,CODEINSPIRE.IO,Sydney Australia,,true,"Full-stack Developer Building SaaS & Shopify Expert
+youtube.com/codeInspire
+",31,468,4,2013-07-29T19:44:02Z
+marionebl,Mario Nebl,ATLASSIAN,Sydney,,false,👨‍💻 🏄 👪,272,464,134,2013-04-24T19:36:19Z
+andrekolodochka,Andre Kolodochka,GITHUB,"Sydney, Australia",,false,,29,456,0,2020-01-07T21:06:38Z
+runlevel5,Trung Lê,,"Sydney, Ho Chi Minh City",,false,,341,449,44,2009-10-06T03:58:13Z
+kevin-lee,Kevin Lee,,"Sydney, Australia",kevin.github@kevinlee.io,true,Coder,127,430,7,2012-09-08T17:18:35Z
+sachinruk,Sachin Abeywardana,CANVA,Sydney,,false,PhD in Machine Learning | ML Engineer @Canva | Deep Learning in Prod,77,428,2,2012-02-05T23:00:26Z
+robin-dela,Robin Delaporte,CANVA,Sydney,delaporte.ro@gmail.com,true,Creative developer & Former student @Gobelins - Available for freelance,15,414,14,2014-09-24T12:56:53Z
+malcolmt,Malcolm Tredinnick,,"Sydney, Australia",malcolm.tredinnick@gmail.com,false,,12,407,5,2008-04-12T11:24:17Z
+MajicDesigns,Marco Colli,,"Sydney, NSW, Australia",,false,Code repository for my Arduino Libraries and Sketches.,56,405,1,2016-06-08T23:04:04Z
+Z-Shang,Z-Shang,MONGODB,Sydney,z@gilgamesh.me,true,"Lisp Reformist
+She/Her",128,404,148,2011-06-19T15:02:29Z
+huxingyi,Jeremy HU,DUST3D-MODELING,"Sydney, Australia",jeremy@dust3d.org,false,"Computer programmer, working on a 3D modeling software as my side project: https://github.com/huxingyi/dust3d",21,404,17,2013-03-22T13:49:40Z
+jarrodwatts,Jarrod Watts,,"Sydney, Australia",,false,,90,404,22,2018-01-21T07:48:46Z
+vaibhavsagar,Vaibhav Sagar,,gadigal land/sydney,,false,"software janitor. 🪩 enthusiast. @recursecenter f1'16.
+",26,399,953,2012-03-11T14:09:05Z
+chewxy,Chewxy,,Sydney,,true,,88,391,96,2010-11-08T04:37:40Z
+anthonygore,Anthony Gore,,"Sydney, Australia",,true,Web developer with a crush on Vue.js,102,390,2,2013-09-02T23:29:31Z
+mcauser,Mike Causer,RED-ANT,"Sydney, Australia",mcauser@gmail.com,false,,284,381,63,2011-09-09T15:27:16Z
+lvarayut,Alex Lerdkanlayanawat ,,"Sydney, Australia",,true,,68,381,40,2013-04-28T15:26:51Z
+MewX,MewX,GOOGLE,"Sydney, NSW",,false,Love learning and learn my love!,73,378,70,2013-10-23T02:55:14Z
+twang2218,Tao Wang,,"Sydney, Australia",twang2218@gmail.com,true,,86,372,8,2014-01-01T21:35:01Z
+pszklarska,Paulina Szklarska,FLUTTERDEV,"Sydney, Australia",pszklarska@gmail.com,false,Flutter GDE / Android & Flutter Developer / cat owner / travel enthusiast,28,371,6,2014-08-26T15:44:51Z
+1hakr,Hari,DWORKS,Sydney,,true,"
+🖥 simpleops.io
+✈️ visalist.io
+💱 acrypto.io
+📁 anexplorer.co 
+
+",19,371,112,2011-02-12T17:53:24Z
+olebedev,Oleg Lebedev,CANVA,"Sydney, Australia",oleg@lebedev.au,false,He doesn't let Canva's bugs bite,64,363,100,2011-06-14T03:50:22Z
+ngot,Henry Zhuang,ATLASSIAN,"Sydney, Australia",,false,Developer of @fibjs @eggjs ,99,354,27,2013-08-16T10:09:30Z
+SathyaBhat,Sathyajith Bhat,,Sydney,,false,Author: Practical Docker with Python (@Apress) & co-author @cdkbook  Organizer @BarcampBangalore @cdkday ,61,352,207,2008-09-19T20:41:42Z
+ryanheise,,,"Sydney, Australia",,false,,36,345,0,2016-06-13T04:24:12Z
+ray-x,rayx,,Sydney,rayx.cn@gmail.com,false,,46,345,27,2012-04-26T09:15:35Z
+michaelsproul,Michael Sproul,SIGP,"Sydney, Australia",,false,"Building Ethereum at Sigma Prime. I like types, specs and proofs.",233,336,164,2013-05-17T00:03:06Z
+45Drives,45Drives,,"Sydney, Nova Scotia ",info@45drives.com,false,,39,329,0,2018-04-13T21:43:59Z
+nosir,Max Huang,ATLASSIAN,"Sydney, Australia",risonhuang@gmail.com,false,,7,328,27,2010-08-03T09:35:55Z
+thushv89,Thushan Ganegedara,CANVA,Sydney,,true,Senior ML Eng @Canva | Author/Educator | TensorFlow fan | Stackoverflow contributor,67,325,9,2012-01-26T08:03:17Z
+gloveboxes,Dave Glover,MICROSOFT,Sydney Australia,dglover@microsoft.com,false,,228,324,6,2014-11-19T23:31:41Z
+lebinh,Binh Le,GOOGLE,Sydney,lebinh.it@gmail.com,false,"Curious programmer, brave sysadmin. SRE @google, previously @cloudflare and @adatao.",46,323,5,2010-04-01T14:07:34Z
+itsdouges,Michael Dougall,ATLASSIAN,"Sydney, Australia",,false,"🏒 🇦🇺 ⚛️ 🎮 • @try-triplex
+ IDE • dad x1",100,322,1,2014-02-27T05:06:59Z
+ArjunAranetaCodes,Arjun Araneta,MORECODES,"Sydney, Australia",arjunaraneta@gmail.com,true,"Learn More. Share More.
+
+Java, Hibernate, Spring, NextJS, React, Angular, Vue, NodeJS, PHP, Laravel, Flask, SQL, NoSQL",167,322,313,2015-11-29T19:36:14Z
+Showfom,Xiufeng Guo,XTOMCOM,"Sydney, Australia",i@m.ac,true,"He/him, I own some unbelievable domain names, including m.ac, u.sb, etc. ",111,321,52,2014-02-24T16:57:48Z
+jesstelford,Jess Telford,CETEIO,"Sydney, Australia",hi+github@jes.st,true,"🛠 @ceteio: Tools for organizing local structured meetups (w/ @Thinkmill)
+🎤 Host @codeheartdesign & @reactsydney
+❤️ OSS
+🗓 Ex: FE Arch Domain/Groupon/Yahoo7",323,319,2,2011-02-11T01:54:29Z
+josephj,Joseph Chiang,IGNITIONAPP,Sydney,,true,,133,312,81,2009-10-08T03:16:26Z
+FagnerMartinsBrack,Fayner Brack,THE INTERNET,"Sydney, Australia",github@fagnermartins.com,true,"Co-author @ js-cookie; Researcher & Software Engineer; publisher of fagnerbrack.com, HackerNoon, FreeCodeCamp, ITNext; Redditor, HN, etc.",10,309,0,2011-06-07T19:15:26Z
+FedericoTartarini,Federico Tartarini,THE UNIVERSITY OF SYDNEY,"Sydney, Australia",,false,"I am an Engineer by training. I am the main author of the CBE Thermal Comfort tool, CBE Clima tool, Cozie for Apple, and pythermalcomfort. ",35,308,1,2018-06-07T06:46:53Z
+danieldelcore,Daniel Del Core,ATLASSIAN,"Sydney, Australia",daniel.delcore.92@gmail.com,false,"Design Systems @atlassian,
+Building @hypermod-io ",47,308,373,2012-12-13T01:40:50Z
+kaievns,Kai Evans,,"Sydney, Australia",,true,,110,307,18,2008-06-21T15:14:17Z
+yamadapc,Pedro Tacla Yamada,ATLASSIAN,"Sydney, Australia - São Paulo, Brazil",tacla.yamada@gmail.com,false,"I like software & music
+
+https://www.linkedin.com/in/yamadapc/",227,305,105,2013-03-20T18:08:43Z
+alice,Alice,IGALIA,Sydney,,false,"Often accidentally @-mentioned because I share a name with a placeholder persona, but I do actually write code and standards, too.",53,302,2,2009-06-14T08:24:26Z
+rikka0w0,Rikka0_0小六花,UNSW,Sydney,929513338@qq.com,true,"Power Electronics PhD, STM32, embedded Linux, C, Java, Verilog, Minecraft Modder, Surströmming",66,296,32,2013-06-15T10:52:38Z
+ibigbug,Yuwei Ba,WATFAQ,Sydney,contact@yba.dev,true,Hello World,99,295,66,2011-01-01T15:47:42Z
+duncanhunter,Duncan Hunter,,Sydney,duncan@duncanhunter.com.au,false,Frontend Dev and Pluralsight Author,104,294,25,2012-07-28T22:27:44Z
+apkelly,Andrew Kelly,MX51,"Sydney, Australia",,false,Google Developer Expert for Android (2016 - 2024) // International Speaker // Movie Nerd,10,293,11,2012-10-15T00:05:25Z
+lukakerr,Luka Kerr,CANVA,Sydney,,false,Software Engineer @Canva. UNSW software engineering grad. Take the occasional photograph,36,291,2,2016-06-21T01:35:13Z
+sigp,Sigma Prime,,Sydney Australia,contact@sigmaprime.io,false,Blockchain & Information Security Services,119,287,0,2016-10-07T02:03:14Z
+Avangelista,Rory,,"Sydney, Australia",,false,,12,284,9,2018-07-25T10:40:12Z
+pentestfunctions,Opabinia,COO @ HACKNEXUS,"Sydney, Australia",,false,"Just another github for crummy idea testing/prototyping.
+",155,283,41,2023-09-04T07:48:43Z
+kuz,Ilya Kuzovkin,OFFWORLD | UNIVERSITY OF TARTU,Sydney | Tartu | Pasadena,ilya.kuzovkin@gmail.com,true,PhD in Neuroscience and Artificial Intelligence,27,281,0,2011-09-26T15:55:33Z
+gustavohenke,Gustavo Henke,CANVA,Sydney,guhenke@gmail.com,false,Empowering the world to design @ Canva Video,32,280,3,2011-06-03T01:29:18Z
+mikel,Mikel Lindsaar,"STORECONNECT, METAPULSE, REINTERACTIVE","Sydney, Australia",,true,,34,277,0,2008-03-18T14:05:00Z
+Moult,Dion Moult,,"Sydney, Australia",dion@thinkmoult.com,true,,86,276,1,2009-05-25T12:37:18Z
+alessandrod,Alessandro Decina,,"Sydney, Australia",alessandro.d@gmail.com,true,,100,276,30,2009-03-10T14:48:19Z
+AlexStormwood,Alex,BIGFOOTDS,Sydney,alex@bigfootds.com,false,"Software developer with a focus on gamedev, webdev, and CICD. Working for myself as BigfootDS, and working for Coder Academy as a teacher.",133,271,323,2016-09-13T05:49:57Z
+jshwi,Stephen Whitlock,SQUIZ,"Sydney, Australia",stephen@jshwisolutions.com,true,Technical Support Engineer (Linux),20,271,270,2017-10-14T14:04:06Z
+alexgurr,Alex Gurr,CLOUDWAVE,Sydney,,false,Full stack developer/technical leader 🚀. I build JavaScript thingymabobs and tweet tech stuff ♥️ ~ Head of Engineering @ CloudWave,16,269,1,2013-04-15T14:53:31Z
+bradwoods,Brad Woods,CANVA,"Sydney, Australia",,false,Front-end Engineer,9,268,0,2017-05-15T00:11:23Z
+stowball,Matt Stow,THINKMILL,"Sydney, Australia",matt@mattstow.com,false,I’m a user experience-focused Front-End Engineer who just wants to make the web a better place by creating human-centred products with universal access.,113,263,11,2011-06-16T08:09:15Z
+h4m5t,h4m5t,NEUROMASTER-TOKEN,"Sydney,Australia",,false,Cyber Security,29,261,802,2020-08-22T14:47:23Z
+mattray,Matt Ray,WIZ,"Sydney, Australia",github@mattray.dev,true,"Open Source geek, and one of the co-hosts of the Software Defined Talk podcast. ",77,259,0,2010-07-12T20:14:38Z
+woolworthslimited,Woolworths Group,,"Sydney, Australia",,false,,3,258,0,2013-09-24T23:02:02Z
+ydkhatri,Yogesh Khatri (@swiftforensics),CYBERCX,"Sydney, Australia",yogesh@swiftforensics.com,false,DFIR wizard (in hibernation!),45,257,1,2015-07-09T02:21:11Z
+JizhiziLi,Jizhizi_Li,,"Sydney, Australia",jizhizili@gmail.com,true,"Ph.D. - Artificial Intelligence | 
+AI Research Scientist | ML Engineer | Full-Stack Developer",25,251,33,2014-09-23T06:06:42Z
+amaarora,Aman Arora,WEIGHTS & BIASES,Sydney,,false,,66,250,3,2018-07-16T11:00:07Z
+amysimmons,Amy Simmons,,Sydney,amy__simmons@hotmail.com,false,Journalist turned software engineer.,76,248,46,2013-11-15T08:39:49Z
+Bluebie,Phoenix Fox,,"Sydney, Australia",,false,"A hacker in Sydney, most interested in pushing tech to be more social, to help people communicate and have fun, share spaces, and maintain privacy.",67,247,22,2008-06-06T01:02:29Z
+unicar9,Unicar,,Sydney,unicar9@gmail.com,true,software developer and creative coder. Love all things geekery.,46,245,26,2017-04-21T01:28:46Z
+laurencei,Laurence,AFRAYEDKNOT1337,"Sydney, Australia",,false,,2,244,0,2011-11-21T15:44:02Z
+laktek,Lakshan Perera,,"Sydney, Australia",,false,Product Engineer,81,244,6,2008-04-06T05:56:05Z
+EEVblog,Dave Jones,EEVBLOG,"Sydney, Australia",dave@eevblog.com,false,,12,242,0,2013-08-11T12:39:12Z
+donsbot,Don Stewart,FACEBOOK,"Sydney, Australia",dons00@gmail.com,false,"Software engineer working on code search tools @ Meta. Past lives in finance, defense r&d and PL research. Ex-NYC,LON,SIN. Farm boy from nowhere, Australia.",13,242,4,2011-04-02T23:27:28Z
+stanleyhuangyc,Stanley Huang,FREEMATICS,"Sydney, Australia",stanleyhuangyc@gmail.com,true,"Hardcore programmer, author of MediaCoder since 2005, founder of Freematics since 2012",10,238,0,2013-01-17T05:20:21Z
+TokenScript,TokenScript is under OASIS,SMART TOKEN LABS,Sydney,,false,Visit @SmartTokenLabs and @AlphaWallet on GitHub for Smart Layer repos. TokenScript standardization is under @eea-oasis,3,237,2,2022-08-30T23:56:38Z
+drsimonj,Simon Jackson,HYPERGROWTH DATA,Sydney,,false,CEO @ Hypergrowth Data,36,237,1,2015-02-27T20:50:20Z
+kring,Kevin Ring,CESIUM,"Sydney, NSW, Australia",kevin@kotachrome.com,true,,56,236,13,2011-07-19T02:51:49Z
+unsw-edu-au,University of New South Wales,,Sydney Australia,,false,,5,236,0,2019-03-29T02:49:53Z
+bigcommerce,BigCommerce,,"SF, Austin, Sydney, Kyiv",,false,,264,234,0,2010-01-20T17:36:18Z
+cht8687,Robert Chang,SELF-EMPLOYED,Sydney,cht8687@gmail.com,false,The best code is no code,122,232,186,2013-06-01T14:06:29Z
+robbievanleeuwen,Robbie van Leeuwen,,"Sydney, Australia",robbie.vanleeuwen@gmail.com,false,,9,229,14,2016-05-01T06:32:32Z
+directorcia,,CIAOPS,"Sydney, Australia",director@ciaops.com,false,"Robert has a degree in Electrical Engineering as well as Masters of Business Administration. He is a Certified SharePoint, Office 365 and Azure Professional.",11,228,0,2015-08-19T23:56:27Z
+bennetthardwick,Bennett Hardwick,FOXGLOVE,"Sydney, Australia",hello@bennett.dev,false,I study how to write software. I work at @foxglove.,86,228,115,2016-03-09T11:54:29Z
+randomaccess3,Phill Moore,,"Sydney, Australia",,false,DFIR examiner based in Sydney,35,227,99,2011-12-05T10:11:09Z
+wileam,Joanna Wu,ATLASSIAN,"Sydney, Austrlia",,false,Front end developer,33,225,126,2013-05-21T06:52:03Z
+LesleyLai,Lesley Lai,,"Sydney, Australia",lesley@lesleylai.info,false,,114,222,157,2014-08-05T05:40:40Z
+slavaim,Slava Imameev,,"Sydney , Australia",,true,Sr Software Engineer. Kernel drivers and modules development.,19,221,2,2013-08-23T17:49:05Z
+dwightwatson,Dwight Watson,ROOMIES-COM,"Sydney, Australia",,false,#gsd,80,218,5,2011-10-04T00:25:08Z
+walissoncom,Walisson Rodrigues,NINE ENTERTAINMENT CO.,"Sydney, Australia",,false,"Front-End Developer. Focusing on UI/UX, React and the MERN Stack.",36,217,4,2019-09-20T06:15:25Z
+rogchap,Roger Chapman,SAFETYCULTURE,Sydney,rogchap@gmail.com,false,"A polyglot engineer, that has found his passion with the Go programming language.",48,217,0,2010-05-07T08:27:04Z
+CMCDragonkai,Roger Qiu,MATRIXAI,"Sydney, Australia",roger.qiu@polyhack.io,true,CEO of Matrix AI (Machine Learning and Cloud Orchestration and Decentralized Cybersecurity),14,217,22,2011-02-27T13:17:11Z
+adamhannigan,Adam Hannigan,THOUGHT FARM PTY LTD,Sydney,,false,"The chicken master 🐔 
+The goblin slayer ⚔️ 
+Creator of Sunflower Land 🌻 ",11,217,1,2015-03-31T23:42:02Z
+fwouts,François Wouts,ZENC LABS,"Sydney, Australia",f@zenc.io,false,🚀 Developer Happiness Engineer,131,214,21,2011-05-06T16:16:32Z
+TomasBeuzen,Tomas Beuzen,SOLAR ANALYTICS,"Sydney, Australia",,false,"#r
+#python
+#datascience
+#climatescience
+#coastalengineering
+",35,214,11,2018-06-19T04:59:03Z
+bennyxguo,Benny Guo,AURORAL-UI,"Sydney, Australia",bennyxguo6@gmail.com,true,"A senior web developer with 10 years of experience in Javascript, React, Vue, PHP, and NodeJs. A creative thinker who strives for improvement and perfection",100,213,52,2016-12-22T02:53:05Z
+davidlattimore,David Lattimore,,"Sydney, Australia",dvdlttmr@gmail.com,false,Developer currently working on Rust development tools with a focus on Rust warm build times.,44,212,1,2014-10-01T11:09:39Z
+bensonruan,Benson Ruan,,"Sydney, Australia",,false,"I love cool tech stuff that could change people's life in a good way.
+Diving into the world of Machine Learning and AI. Turning imagination into reality.",22,210,6,2018-02-09T11:58:29Z
+AgeManning,Age Manning,SIGP,"Sydney, Australia",Age@AgeManning.com,false,"PhD in theoretical particle physics, co-founder of Sigma Prime (@sigp).",52,209,0,2014-05-01T00:15:22Z
+julapy,LK,,"Sydney, Australia",,false,,71,208,1,2010-07-14T00:43:01Z
+mikeyhodl,mikey,WEKNOW-IO @GADGETSMAGKE @WEKNOW-FINANCE @AMDEFIGUY,Sydney,mike@mikeowino.com,true,".ts
+$btc $eth $bnb",1608,208,786,2019-03-31T00:11:29Z
+benfulcher,Ben Fulcher,DYNAMICSANDNEURALSYSTEMS,"Sydney, Australia",,false,I use methods from physics and statistics to understand the structure and dynamics of complex systems like the brain,51,205,22,2013-05-16T09:25:57Z
+rid00z,Michael Ridland,,"Sydney, Australia",,false,,50,205,11,2012-03-17T04:01:03Z
+mvandermeulen,Mark,FIVENYNES,"Sydney, Australia",,false,Places for things to live,3925,200,96,2015-09-21T10:04:47Z
+greenlaw110,Gelin Luo,AWS/REDSHIFT/CP,Sydney Australia,greenlaw110@gmail.com,true,"Creator of @actframework, @rythmengine and play-morphia projects",131,200,3,2010-03-06T01:56:39Z
+RomaTeng,Teng Zhang,UNIVERSITY OF TECHNOLOGY SYDNEY,"Sydney, Australia",romateng@outlook.com,false,"Spatial computing, XR and SLAM.
+Now focusing on developing VST based real AR glasses.",25,200,11,2016-05-18T05:59:24Z
+abstractspoon,.dan.g.,ABSTRACTSPOON,"Sydney, Australia",,false,,18,198,0,2015-06-18T00:24:22Z
+tcharding,Tobin C. Harding,,"Sydney, Australia.",,true,Journeyman Linux Programmer,129,197,13,2015-05-27T11:39:36Z
+lifeparticle,Mahbub Zaman,EUNGELLA-IO,"Sydney, Australia",,false,Computer engineer creating productivity tools.,95,196,55,2012-04-04T14:32:58Z
+bberak,Boris Berak,,"Sydney, Australia",bberak@gmail.com,false,,97,195,23,2012-07-05T23:08:41Z
+alphadl,Liang Ding,"JD EXPLORE ACADEMY, JD.COM INC.",Shanghai(CN) & Sydney(AU),liangding.liam@gmail.com,true,NLP/ML researcher (developing LLM and exploring its way to human-centric AGI). ,386,195,194,2016-07-14T12:33:27Z
+he-y,Yang He,UNIVERSITY OF TECHNOLOGY SYDNEY,"Sydney, Australia",,false,"Ph.D. student at UTS
+",7,192,30,2015-01-15T03:11:04Z
+Meligy,Meligy,TELSTRA PURPLE (FORMERLY KNOWN AS READIFY),"Sydney, Australia",eng.meligy@gmail.com,true,"A servant leader / mentor, and an occasional speaker / blogger
+I help devs build modern dotnet APIs & TypeScript frontends, @TelstraPurple Managing Consultant.",64,192,89,2009-12-24T02:56:58Z
+zcaudate,Chris Zheng,,"Sydney, Australia",,false,,117,192,136,2012-02-20T23:42:15Z
+kvos,Kilian Vos,,Sydney,,true,"Researcher/DataScientist with interests in #remotesensing, #machinelearning, #coastalengineering.
+PhD at UNSW. MSc in Environmental Engineering at EPFL. ",10,191,21,2014-04-07T22:39:16Z
+PinkyJie,Wenbo Jie,,"Sydney, Australia",,false,front-end developer,27,190,40,2011-01-07T02:54:29Z
+zmdominguez,Zarah Dominguez,,"Sydney, Australia",hello@zarah.dev,false,,22,187,1,2010-09-22T04:50:06Z
+paulfioravanti,Paul Fioravanti,,"Sydney, Australia",paul@paulfioravanti.com,false,"Coder, linguist, mechanical keyboard enthusiast, stenography learner.",84,187,379,2011-01-01T14:40:39Z
+jimmo,Jim Mussared,MICROPYTHON,"Sydney, Australia",jim.mussared@gmail.com,false,,86,186,3,2013-07-27T14:19:13Z
+vnik5287,Vitaly Nikolenko,DUASYNT,Sydney,vnik@duasynt.com,false,"Security researcher focusing on Linux/Android kernel security
+
+77B1 FBAC E0FD 2E94 F8AC  2D91 9566 2314 344F 85E8",16,185,0,2014-11-10T04:10:44Z
+Vercidium,Vercidium,VERCIDIUM,"Sydney, Australia",,false,Developer for Sector's Edge and creator of the Vercidium Engine.,8,183,2,2015-04-19T03:08:27Z
+naddison36,Nick Addison,,Sydney,,false,,89,183,0,2014-01-24T11:45:51Z
+tuanvnguyen,,"UNSW MEDICINE, UNSW SYDNEY, AUSTRALIA",Sydney,,false,Tuan Nguyen,7,182,0,2017-10-15T09:31:19Z
+jordwest,Jordan West,,"Sydney, Australia",jordwest@gmail.com,false,,56,181,12,2010-09-26T05:41:47Z
+btnguyen2k,Thanh Ba Nguyen,MICROSOFT,"Sydney, Australia",btnguyen2k@gmail.com,false,,141,181,1,2012-08-16T15:50:38Z
+modenaxe,Luca Modenese,UNIVERSITY OF NEW SOUTH WALES,Sydney,,false,Researcher in biomechanics interested in healthcare applications of computer models.,108,180,193,2014-05-23T00:25:29Z
+brendanmurty,Brendan Murty,,"Sydney, NSW, Australia",brendan@murty.au,true,Self-taught Software Engineer and technical leader with 15 years of varied experience in the industy.,29,180,718,2011-02-09T05:37:12Z
+albertstill,Albert Still,SPOTIFY,"Sydney, Australia ",albertjamesstill@gmail.com,true,"Writes a lot of JavaScript. Node, GraphQL, React, Relay and Apollo. Engineer at Spotify. Founder of Tern app https://terncommute.com",61,179,19,2012-11-13T15:09:08Z
+nutboltu,Farhad Yasir,ATLASSIAN,Sydney,farhad.yasir.nb@gmail.com,true,"Senior Engineer @atlassian | 
+creator @storybook-addon-mock | @nutboltu",58,179,1,2014-11-22T07:43:33Z
+timgates42,Tim Gates,IRESS,Sydney,,false,,1743,178,15,2019-02-22T00:36:27Z
+RussKie,Igor Velikorossov,MICROSOFT,"Sydney, Australia",,false,"
+    Senior Software Engineer, .NET team.
+
+I code. I deliver. I have opinions.
+",94,176,1,2013-05-11T13:14:04Z
+tmcgilchrist,Tim McGilchrist,TARIDES,"Sydney, Australia",timmcgil@gmail.com,false,"OCaml and Haskell connoisseur. Principal software engineer at @tarides. Compilers, runtimes, garbage collection, and general systems hackery. ",540,176,76,2009-12-22T12:21:50Z
+gavanlamb,Gavan Lamb,,"Sydney, Australia",hello@gavanlamb.com,true,,109,176,187,2014-03-16T10:52:52Z
+enzyme69,Jimmy Gunawan,,"Sydney, Australia",,false,An independent 3D artist exploring AR and VR and ideas using open source tools.,9,174,166,2013-03-24T00:03:45Z
+jtblin,Jerome,ATLASSIAN,"Sydney, Australia",jtblin@gmail.com,true,,62,173,12,2012-01-29T12:04:43Z
+cxong,congusbongus,,"Sydney, Australia",congusbongus@gmail.com,true,,94,173,4,2011-09-27T08:57:13Z
+vicr123,Victor Tran,,"Sydney, Australia",vicr12345@gmail.com,false,"Hi, I'm Victor. But you can just call me Victor.",96,173,2,2014-04-23T03:55:43Z
+mike-thompson-day8,Mike Thompson,,"Sydney, Australia",,false,,18,173,0,2012-12-13T11:17:21Z
+benalexau,Ben Alex,ACEGI,"Sydney, Australia",ben.alex@acegi.com.au,false,,37,173,0,2011-04-09T01:23:30Z
+aussiearef,Aref Karimi,,"Sydney, Australia",,false,"Software Engineer at heart, technology leader by profession. ",70,173,0,2014-10-24T05:17:27Z
+AlphaWallet,AlphaWallet by Smart Layer,,Sydney,support@alphawallet.com,false,AlphaWallet by Smart Layer,51,172,0,2018-02-07T02:54:39Z
+theojulienne,Theo Julienne,,"Sydney, Australia",,false,,152,171,1,2010-07-30T11:39:30Z
+adevnadia,Nadia Makarevich,ATLASSIAN,Sydney,,false,Tech lead/frontend architect in Atlassian.,13,171,6,2014-02-04T17:14:06Z
+amitsaha,Amit Saha,,"Sydney, Australia",,false,,423,169,11,2010-12-07T04:19:25Z
+PedramMarandi,Pedram Marandi ,DATAMESH GROUP,Sydney NSW,pedram.marandi@gmail.com,true,Web Developer,35,169,129,2014-06-06T08:47:32Z
+cjdsellers,Chris Sellers,NAUTECHSYSTEMS | @DATABENTO,"Sydney, Australia",chris@cjdsellers.io,false,Founder of NautilusTrader,4,168,153,2016-09-29T00:16:27Z
+stennie,Stennie Steneker,ANTLER,"Sydney, Australia",git@stennie.dev,false,"Curious, cloud-compatible, cromulent hacker of #AllTheThings. ",126,168,8,2008-06-30T13:00:34Z
+kfish,Conrad Parker,,Sydney,conrad@metadecks.org,false,,95,168,25,2008-12-07T11:17:34Z
+fourkbomb,Simon Shields,,"Sydney, Australia",,false,Professional key presser.,186,167,35,2013-04-06T03:46:37Z
+twalve,Craig Sharkie,,Sydney,craig.sharkie@gmail.com,true,"Father, founder of @SydJS, jQuery: Novice to Ninja co-author, HTML5 devotee, Developer advocate, testing aficionado. And so, most often, unreasonably happy",33,167,271,2009-05-28T01:57:10Z
+neilfws,Neil Saunders,,"Sydney, Australia",,true,"Data scientist (now), bioinformatician (previously). Enjoys converting data of all kinds into insights and helping others do the same. Mostly R- #rstats.",29,166,27,2009-01-10T06:25:11Z
+sarahmaddox,Sarah Maddox,GOOGLE,"Sydney, Australia",,false,Technical writer at Google,31,165,0,2013-12-08T23:56:04Z
+Gomah,Thomas Marrec,,"Sydney, Australia",,true,,88,164,123,2012-09-17T12:03:20Z
+andrewharvey,Andrew Harvey,ALANTGEO,"Sydney, Australia",andrew@alantgeo.com.au,true,"I work at Alantgeo, providing Mapbox & Mapillary solutions across Australia & New Zealand. In my spare time I work on www.beyondtracks.com.",230,164,18,2009-08-20T00:27:58Z
+igas,Marcus Wood,VISIBLELIGHTIO,"North Sydney, Australia",github@igas.me,true,@visiblelightio founder and CTO,89,162,82,2010-01-03T13:40:59Z
+SerCeMan,Sergey Tselovalnikov,CANVA,Sydney,sergey@serce.me,false,It is vital to understand the whole stack of technologies you use from top to bottom.,80,162,7,2012-05-26T14:51:36Z
+jamesray1,James Ray,,"Sydney, Australia",,false,"Contributed to Gaja, @holochain, @ethereum, @libp2p; distributed, agent-centric tech; crypto, Rust, FOSS. Other profiles:
+@jameschrray, @jchray.",118,162,20,2016-01-30T06:34:51Z
+peterfinlan,Peter Finlan,PETER FINLAN,"Sydney, Australia.",,true,Interaction Designer @Google. Maker of free things for the interwebz. Father and surfer who needs to score more waves.,6,162,0,2013-10-28T21:06:44Z
+russmaxdesign,Russ Weakley,,Sydney,russ@maxdesign.com.au,true,"Head of Inclusive Training at Intopia. Passionate about Accessibility, Inclusion, HTML, CSS, dogs and nature.",90,161,3,2011-06-18T10:31:58Z
+w0ng,Andrew Wong,CANVA,"Sydney, Australia",,false,,25,160,19,2011-08-05T07:09:57Z
+markhibberd,markhibberd,,"Sydney, Australia",mark@hibberd.id.au,false,,158,160,13,2008-09-02T08:41:19Z
+kyb3r,Raqeeb,,"Sydney, Australia",raqeeb@clinify.com,true,,84,159,19,2017-06-09T16:49:37Z
+floraCodes,Flora,,"Sydney, Australia",,false,"I'm a former Industrial Pharmacist, now a self-taught Software Engineer!",21,158,35,2018-07-07T21:23:37Z
+CassiusPacheco,Cassius Pacheco,,"Sydney, Australia",,false,Brazilian software engineer living in Australia 🇧🇷 🇦🇺  #iOS #flutter,20,157,152,2011-03-10T14:19:37Z
+malcolmgroves,Malcolm Groves,,"Sydney, Australia",malcolm.r.groves@gmail.com,false,,52,156,11,2011-05-16T11:39:01Z
+auscompgeek,David Vo,CANVA,"Sydney, Australia",,false,Software engineer. Former academic tutor. Mentor @thedropbears.,154,156,119,2009-09-19T05:21:03Z
+rizsotto,László Nagy,,Sydney/Australia,,true,,8,155,20,2011-11-16T20:25:57Z
+cjheath,Clifford Heath,,Sydney Australia,clifford.heath@gmail.com,false,"Enterprise software product architect, data modeller and inventor.",85,155,19,2008-02-29T06:55:16Z
+atlassian-labs,Atlassian Labs,,"Sydney, San Francisco, Austin, and more!",support@atlassian.com,false,,54,154,0,2019-12-23T19:46:36Z
+nickw444,Nick Whyte,CANVA,"Sydney, Australia",nick@nickwhyte.com,false,"Software Engineer in Sydney, Australia",112,154,94,2011-12-28T05:40:01Z
+matt-goldman,Matt Goldman,SSWCONSULTING,Sydney,,false,,94,154,127,2016-06-15T04:44:49Z
+theleoborges,Leonardo Borges,CANVA,"Sydney, Australia",leonardoborges.rj@gmail.com,false,"Director of Engineering @Canva |
+ex- @atlassian, ex- @thoughtworks |
+Author of https://www.packtpub.com/web-development/clojure-reactive-programming",70,154,6,2008-11-13T21:23:02Z
+pbos,Peter Boström,GOOGLE,"Sydney, Australia",,false,,12,153,16,2009-06-14T20:53:58Z
+leocaseiro,Leo Caseiro,ATLASSIAN,"Sydney, Australia",,false,"🇧🇷 🇦🇺 Software Engineer. #React, #Angular, #JavaScript, #NodeJS, #CSS, #TypeScript and anything nice about #Mobile #Web",154,152,160,2011-07-26T16:44:46Z
+canva-public,Canva OpenSource,,Sydney Australia,opensource@canva.com,false,Open Source @ Canva,8,151,0,2021-04-19T01:56:48Z
+mgreen27,Matthew Green,,Sydney,,false,DFIR / Detection guy,17,151,56,2015-06-28T00:03:06Z
+SimplyWallSt,Simply Wall St,,Sydney,feedback@simplywallst.com,false,Simply Wall St helps people make better investing decisions by giving them access to awesome data and analysis presented as infographics.,2,150,0,2015-09-23T23:33:45Z
+bjtu-lucas-nlp,Kezhi Lu,UNIVERSITY OF TECHNOLOGY SYDNEY,Sydney,,false,PhD at AAII of the University of Technology Sydney. ,5,149,220,2016-02-01T09:09:44Z
+justinmclean,Justin Mclean,CLASS SOFTWARE,Sydney Australia,justin@classsoftware.com,false,"Consultant, trainer, educator, community manager, open source application development, Apache Software Foundation board member and VP Incubator.",43,149,11,2009-10-25T19:10:29Z
+timchurches,Tim Churches,,"Sydney, Australia",tim.churches@gmail.com,false,,40,148,5,2012-11-22T02:51:28Z
+jasonsreid,Jason Reid,,Sydney ,,false,Golang - Rust - Python,6,148,230,2023-08-13T13:00:42Z
+mzhaoshuai,Shuai Zhao,,Sydney,zhaoshuaimcc@gmail.com,false,"Man, what can I say.",6,146,736,2016-09-27T14:48:29Z
+Anyesh,Anish Shrestha,ALAYACARE,Sydney,,true,"Certified TensorFlow Developer | Machine Learning Engineer |  a contributor to @AlayaCare, @timedotcom, @resurfaceio, @mozilla, @xceltripinc",115,146,101,2017-03-06T10:32:32Z
+sushil79g,Sushil Ghimire ,,"Sydney, Australia",sushil79g@gmail.com,false,"
+    The coolest Computer Engineer, 
+
+LinkedIn: linkedin.com/in/sushil-ghimire-92092011b/
+
+Facebook: facebook.com/sushil79g
+",75,146,121,2016-03-14T09:45:22Z
+vardius,Rafał Lorenz,AUTOPILOTHQ,Sydney,,true,,64,146,15,2014-02-02T18:58:04Z
+JasonShin,Jason Shin,,"Sydney, Australia",,true,"Node, Python, Rust, Machine Learning, Functional Programming, React, Vue, Kubernetes and Scala.",81,144,29,2012-10-10T03:09:48Z
+arcwhite,Andy White,BUGCROWD,"Sydney, Australia",arcwhite@arcwhite.org,false,,16,143,5,2009-11-30T03:59:59Z
+gsklee,G. Kay Lee,OFX-COM,"Sydney, NSW, Australia",,true,Accomplished JavaScript artisan specializing in frontend architecture and web applications. 9+ years of professional experience.,115,143,135,2011-08-26T10:26:37Z
+rohitash-chandra,Rohitash Chandra,UNSW SYDNEY,"Sydney, Australia",rohitash.chandra@unsw.edu.au,true,"Research interests  include the methodologies and applications of Artificial Intelligence and Machine Learning.  
+rohitash-chandra.github.io",57,143,97,2014-08-23T11:31:39Z
+joshprice,Josh Price,ALEMBIC,"Sydney, Australia",josh@alembic.com.au,false,,138,143,170,2008-05-05T02:05:54Z
+stevecassidy,Steve Cassidy,MACQUARIE UNIVERSITY,"Sydney, Australia",,false,,86,142,3,2013-06-13T04:45:26Z
+hunto,Tao Huang,THE UNIVERSITY OF SYDNEY,"Sydney, Australia",hunto@foxmail.com,true,PhD student at University of Sydney.,17,142,36,2016-11-16T13:33:37Z
+davidbr4gg,David Bragg,FRONTEND SIMPLIFIED,"Sydney, NSW, Australia",,true,Founder @ Frontend Simplified,6,142,0,2019-04-05T00:31:24Z
+tristan-salles,Tristan Salles,UNIVERSITY OF SYDNEY,Sydney,tristan.salles@sydney.edu.au,true,Building models of Earth surface processes.,67,141,13,2014-04-07T07:13:34Z
+danoli3,Dan Rosser,PAST: @ROBOTHOUSESTUDIO @SMGSTUDIO,Sydney Australia,danoli3@gmail.com,true,"Principal Build Engineer, Game Programmer, Toolchain Engineer, Systems Programmer, C++ Compiler, Drum n Bass Producer, Rickettsia Advocate",155,141,176,2011-06-05T12:50:15Z
+ryan-allen,Ryan Allen,,"Sydney, Australia",,false,"Programming is pretty great, you get to make neat things. Likes Javascript, C#, Linux & Dogs. Learning Rust!",59,141,126,2008-05-15T05:15:30Z
+JiaWu-Repository,Jia Wu,MACQUARIE UNIVERSITY,Sydney,,false,"Jia Wu is the Research Director of AI-enabled Processes (AIP) Research Centre, Macquarie University, Sydney, Australia  ",48,141,0,2020-06-17T12:22:51Z
+taoshen58,Tao Shen,,"Sydney, Australia",,false,,33,139,24,2015-05-26T01:56:56Z
+JavascriptMick,JavascriptMick,,"Sydney, Australia",,false,"Michael Dausmann
+Full stack developer. Agile, Data science and Machine Learning. Love learning, speaking and dad jokes.",56,139,22,2011-07-10T08:15:20Z
+wacky6,Jiewei Qian,GOOGLE,"Sydney, Australia ↔ Nanjing, China",qjw@wacky.one,false,"Software {Engineer at work, Alchemist for fun}",68,139,60,2014-10-20T12:38:00Z
+tfpk,Tom Kunc,UNSW,"Sydney, Australia",,false,"Software Engineer @ Optiver | COMP6991 Course Admin @ UNSW  | 
+Maker of tools to make teaching easier.",80,139,30,2015-02-08T10:13:45Z
+gridbugs,Stephen Sherratt,,Sydney,stephen@sherra.tt,false,,329,134,4,2010-09-27T04:54:34Z
+ashquarky,Ash,,"Sydney, Australia",ash@heyquark.com,false,23yo embedded/systems programmer,83,134,8,2014-08-23T20:38:55Z
+mpwaller,Mark Waller,PENDING.AI,"Sydney, Australia",,true,,1,133,627,2015-07-31T05:43:01Z
+KodingDev,Stella,KODINGDEVELOPMENT,"Sydney, Australia",hello@koding.dev,false,i get around :),23,132,79,2016-11-24T06:32:47Z
+maniksurtani,Manik Surtani,"BLOCK, INC.","Sydney, Australia",manik@surtani.org,false,,24,131,3,2009-01-16T17:34:28Z
+PaulWaltersDev,Paul Maxwell-Walters,,"Sydney, Australia",,false,"Software Tester and IT student from the UK, living in Sydney, Australia. You can follow me on Twitter at @TestingRants.",27,130,9,2015-01-11T01:34:03Z
+MaxwellBo,Max Bo,CANVA,"Sydney, Australia",max@maxbo.me,false,,99,127,254,2013-09-02T23:44:27Z
+deansheather,Dean Sheather,CODER,"Sydney, Australia",dean@deansheather.com,false,⬅️⬇️⬆️➡️,23,127,48,2015-02-28T07:36:36Z
+dylanegan,Dylan Egan,,"Sydney, Australia",,false,,55,126,0,2008-01-29T23:15:18Z
+rodolfoprr,Rodolfo Pereira,,"Australia, Sydney",,true,Add a bio,22,126,4,2012-07-29T22:27:00Z
+Noviny,Noviny,DOLBYIO-SAMPLES,Sydney,,false,Writer who has moved from writing fiction to writing code. Delights in delightedness.,74,126,31,2015-11-03T01:32:53Z
+rueckstiess,Thomas Rückstieß,MONGODB @MONGODB-JS,"Sydney, Australia",,false,,41,125,3,2009-06-26T16:01:16Z
+david-cattermole,David Cattermole,,"Sydney, Australia",,false,,27,125,123,2011-07-03T06:12:10Z
+deerawan,Budi Irawan,,"Sydney, Australia",deerawan@gmail.com,false,Javascript Developer 🦁 ,190,125,89,2011-12-06T08:37:17Z
+kevinresol,Kevin Leung,WWW.KEVINRESOL.COM,Sydney / Hong Kong,,false,,376,125,28,2011-10-05T04:00:23Z
+mgiuca,Matt Giuca,,"Sydney, Australia",matt.giuca@gmail.com,false,"Game developer.
+
+Past lives: PhD in programming language design. Chrome, ChromeOS and web platform engineer at Google.",34,125,0,2010-03-23T06:06:36Z
+NobodyXu,Jiahao XU,,Sydney/Australia,,true,,160,125,167,2017-07-25T12:14:38Z
+thekevinbrown,Kevin Brown,EXOGEE,"Sydney, Australia",kevin.brown@exogee.com,false,Founder at Exogee. We build products for startups and more established companies that want to act like startups. Check out Graphweaver!,63,125,2,2012-03-13T06:29:24Z
+featherbear,Andrew Wong,,"Sydney, Australia",hello@featherbear.cc,false,AV and stage tech stuff I guess..,386,125,31,2011-10-29T04:06:35Z
+beauwilliams,Beau,ATLASSIAN,Sydney,,true,,155,125,274,2014-03-29T05:33:28Z
+alesya-h,Alesya Huzik,AUDIENCE REPUBLIC,"Sydney, Australia",public@aguzik.net,true,"Clojure. Nix/NixOS, Linux, and (long time ago) Ruby",112,124,71,2010-02-23T14:01:38Z
+maacpiash,Ahad Chowdhury,,"Sydney, Australia",github@maacpiash.com,true,"Graduate of data science. Former Software Engineer, @apollointl. Former Junior Software Engineer, @DSInnovators. Former NSUer.",97,124,506,2015-08-06T17:58:22Z
+biancapower,Bianca Power,MACUJECT,"Sydney, Australia",bianca@biancapower.com,false,,182,123,73,2017-07-16T05:19:22Z
+JiashuWu,Jiashu Wu,CHINESE ACADEMY OF SCIENCES,Beijing | Shenzhen | Melbourne | Sydney,wujiashu21@mails.ucas.ac.cn,true,"Jiashu Wu 吴嘉澍
+",6,123,134,2017-06-03T11:12:44Z
+aullman,Adam Ullman,,"Sydney, Australia",ullmanadam@gmail.com,false,,50,123,3,2011-04-16T17:55:34Z
+donggong1,Dong Gong,UNSW,"Sydney, Australia",edgong01@gmail.com,false,Senior Lecturer & ARC DECRA Fellow,8,122,9,2016-12-02T04:02:48Z
+xiaomengyc,Xiaolin Zhang,,"Sydney,Australia",Solli.Zhang@gmail.com,false,Ph.D Student at University of Technology Sydney,17,122,52,2013-12-28T11:21:45Z
+davidsansome,David Sansome,,"Sydney, Australia",me@davidsansome.com,false,,65,121,5,2010-06-25T11:50:27Z
+guyecode,Brandon Gu,,Sydney,,false,,15,121,8,2010-08-10T14:57:09Z
+dkarunakaran,Dhanoop Karunakaran,,"Sydney, Australia",,true,"PhD in CS & Eng. (Autonomous Vehicle), AI/ML Engineer, Researcher
+",61,120,9,2015-09-20T11:39:23Z
+lsf37,Gerwin Klein,PROOFCRAFT,"Sydney, Australia",gerwin.klein@proofcraft.systems,false,Proves stuff. Chief Scientist and Co-Founder at Proofcraft,15,120,0,2013-09-21T07:33:11Z
+toptensoftware,Brad Robinson,TOPTEN SOFTWARE,"Sydney, Australia",github@toptensoftware.com,false,,95,119,0,2010-01-11T07:58:36Z
+mitermayer,Mitermayer Reis,"ATLASSIAN, EX @FACEBOOK",Sydney,mitermayer.reis@gmail.com,false,,74,119,76,2011-09-11T09:58:47Z
+gsherwood,Greg Sherwood,SQUIZ,"Sydney, Australia",,false,"
+Engineering Manager at Squiz + lead developer of PHP_CodeSniffer
+",1,119,0,2010-01-20T05:22:11Z
+terrywang,Terry Wang,MULESOFT,"Sydney, Australia",,true,"Linux Ninja ;-D
+
+",20,119,54,2009-08-25T12:04:03Z
+gscales,Glen Scales,,Sydney,gscales@datarumble.com,true,"I'm a Senior developer specializing in Exchange, Active Directory, Office 365, Skype & Teams. ",31,119,2,2015-03-09T23:58:49Z
+damncabbage,Robin Howard,,"Sydney, Australia",,false,,148,118,23,2009-09-30T03:11:44Z
+bradleyayers,Bradley Ayers,HAOHAO-HOW @DOVETAIL,"Sydney, Australia",,false,Co-founder of @dovetail ,150,118,21,2009-07-17T01:00:48Z
+hemantasapkota,Hemanta Sapkota,,Sydney,,true,👉 Check out yolmo.com,44,118,65,2011-07-05T16:54:58Z
+robinst,Robin Stocker,"CANVA, EX ATLASSIAN","Sydney, Australia",,false,,137,117,56,2008-07-11T13:29:12Z
+brinlyau,Brinly ,,"Sydney, Australia",,false,"formally did OSS, no longer",40,116,83,2013-06-18T11:23:26Z
+physwizz,,,Sydney Australia,,false,,315,116,18,2019-10-27T03:49:31Z
+jacobsa,Aaron Jacobs,GOOGLE,"Sydney, Australia",aaronjjacobs@gmail.com,false,,44,116,0,2010-02-13T05:47:48Z
+hayyyyyyden,Hayden Fang,INDIE,Sydney,,true,Never stop learning.,44,115,9,2013-12-08T14:44:12Z
+haxormad,Abartan Dhakal,STICKMAN CONSULTING,Sydney,abartandhakal@gmail.com,true,Penetration Tester Manager/Lead at StickmanCyber | Sydney | Poet | Bugbounties | Music,180,115,140,2016-06-21T13:02:53Z
+Lou-Flan,Lou-Flan,,Sydney,louise_flanagan@outlook.com,true,,39,115,52,2016-10-18T08:06:16Z
+donnaskiez,,,"Sydney, Australia",,false,,6,115,32,2019-08-22T23:19:27Z
+dfalster,Daniel Falster,UNSW-EDU-AU,Sydney Australia,daniel.falster@unsw.edu.au,false,"Associate Professor |  @traitecoevo | @nicercode 
+| orcid.org/0000-0002-9814-092X | twitter.com/adaptive_plant",42,115,1,2013-02-14T01:04:38Z
+andersonaguiar,Anderson Aguiar,,"Sydney, Australia",contact@andersonaguiar.com,false,Blockchain • Algo trade • Software Development,77,115,128,2010-11-22T09:09:44Z
+trulyspinach,trulyspinach,,Sydney,,true,,24,115,25,2014-10-01T00:14:04Z
+benl23x5,Ben Lippmeier,,"Sydney, Australia",benl@ouroborus.net,false,Post Functional Reprogrammer,8,115,1,2010-12-09T02:49:43Z
+ozbillwang,Bill Wang,,"Sydney, NSW",,true,I work as a DevOps and Cloud consultant.,390,115,45,2014-09-29T07:17:53Z
+nclarx,Nick Clark,,"Sydney, Australia",,true,Software Engineer,36,113,72,2017-08-13T05:15:59Z
+phamquiluan,Luan Pham,ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY,"Sydney, Australia",phamquiluan@gmail.com,true,Stealth Mode,35,113,17,2016-12-19T01:31:41Z
+lvzongting,lvzongting,XDLINUX,"UTS, Sydney",lvzongting@gmail.com,false,lvzongting,47,112,104,2011-10-20T10:12:36Z
+davidbanham,David Banham,NOTBAD.SOFTWARE,Sydney,david@banham.id.au,true,"I build things! Software, products, companies, teams.",195,112,0,2011-02-22T12:24:25Z
+chriswrightdesign,Chris Wright,CAMPAIGNMONITOR,"Sydney, Australia",,false,,42,112,30,2012-09-05T02:10:39Z
+szdc,Jack Willis-Craig,AMZN,"Sydney, Australia",,false,,26,112,5,2013-06-21T10:39:10Z
+dcutting,Dan Cutting,,Sydney,,false,"I mainly write Swift for iOS but love working on Mac apps, web APIs, and programming languages too.",32,112,4,2010-06-11T13:33:01Z
+chrisosaurus,Chris Hall,GOOGLE,"Sydney, Australia",followingthepath@gmail.com,false,"Ex-Googler (Chrome Browser).
+Buzzwords: Programming languages, Type theory, Mathematical Proofs, Hash tables, Memory management, Accessibility, UX/UI.",83,111,218,2009-04-19T21:24:59Z
+nalbion,Nicholas Albion,,"Sydney, Australia",,false,,127,111,1,2012-06-19T06:09:21Z
+YanhaoZhang,Yanhao Zhang,UNIVERSITY OF TECHNOLOGY SYDNEY,Sydney,yanhaozhang1991@gmail.com,false," I am a postdoc at UTS. I am seeking jobs in 3D vision, robotics, or medical imaging. ",10,111,214,2018-02-15T04:06:28Z
+tresacton,Très Acton,,"Sydney, Australia",,true,,18,111,4,2011-01-07T05:02:16Z
+jsscclr,Jessica Claire Edwards,,"Sydney, Australia",,true,Creative developer.,67,111,41,2014-05-16T05:49:18Z
+mhutchie,Michael Hutchison,,"Sydney, Australia",mhutchie@16right.com,false,Software Engineer | vscode-git-graph,4,110,0,2013-08-26T21:09:05Z
+daobilige-su,Daobilige Su,,"Sydney, Australia",,true,Associate Professor @ CAU,45,109,18,2015-11-30T04:12:22Z
+iam-mhaseeb,Muhammad Haseeb,FULL STACK ENGINEER @XREFDEV @RAPIDID,"Sydney, Australia",,true,A passionate engineer enabling teams to develop cutting-edge software products.,50,109,16,2015-10-15T13:46:06Z
+shimmyshimmer,Michael,UNSLOTH AI,Sydney,,false,Hi I'm Michael. I'm currently building Unsloth!,20,109,124,2022-06-22T09:06:15Z
+Thinkmill,Thinkmill,,Sydney,hello@thinkmill.com.au,false,,83,109,0,2013-10-24T01:34:08Z
+iamteem,Tim Medina,,"Sydney, Australia",iamteem@gmail.com,false,,40,108,124,2008-03-31T15:18:11Z
+maxious,Alex Sadleir,,"Sydney, Australia",alexs@canva.com,false,,33,108,56,2009-05-06T00:16:13Z
+vrthra,Rahul Gopinath,THE UNIVERSITY OF SYDNEY,Sydney,,false,Lecturer at the University of Sydney,184,107,6,2009-04-04T10:01:36Z
+drbinliang,Bin Liang,UTS,"Sydney, NSW, Australia",bin.liang.ty@gmail.com,false,,14,107,6,2013-07-10T03:38:26Z
+SiddAjmera,Siddharth Ajmera,CX LAVENDER,Sydney,,true,,110,107,28,2013-07-20T11:26:02Z
+jordaneremieff,Jordan Eremieff,,Sydney,,false,Hello ,93,107,61,2012-01-24T20:02:13Z
+wilsonzlin,Wilson Lin,,Sydney,wl@wilsonl.in,false,Hill climber,96,107,0,2016-06-11T05:04:45Z
+tbillington,Trent,,Sydney/Väckelsång,,true,,37,107,77,2012-11-11T13:02:17Z
+delitescere,Josh Graham,,"Sydney, Australia",,false,"Retired CTO. ex Secure Code Warrior, mPort, Canva, Atlassian, Hashrocket, ThoughtWorks, OzEmail.",15,107,32,2009-10-03T18:07:22Z
+np1,Darren,,Sydney,,true,,0,106,5,2012-09-04T01:47:16Z
+zhuangqh,jerryzhuang,,Sydney,zhuangqhc@gmail.com,false,An infrastructure engineer 🧙‍♂️🧙🧙,68,106,98,2015-05-02T03:18:21Z
+felipetavares,Felipe Tavares,PRAGMA TEAM,"Sydney, Australia",felipe.oltavares@gmail.com,true,People. Business. Travel. Violin. Software. Games. Electronics.,77,106,221,2012-08-20T14:46:18Z
+rhoml,Rhommel Lamas,CLOUDFLARE,"Sydney, Australia",,true,My mom bought me a puter for Christmas,227,106,552,2010-08-19T07:17:57Z
+noisysocks,Robert Anderson,,"Sydney, Australia",robert@noisysocks.com,true,Senior JavaScript Engineer. Formerly @Automattic and @Tumblr.,17,106,50,2011-02-11T04:01:03Z
+pawanrawal,Pawan Rawal,CHRONOSPHEREIO,Sydney,pawan0201@gmail.com,false,Software Engineer,20,105,18,2014-04-10T07:13:14Z
+pinkforest,pinkforest(she/her),/DEV/NULL,Sydney,,true,cvaxsberfg.0k0012sssnp04211@cz.zr,486,105,5,2018-02-15T06:29:10Z
+DanyMariaLee,Marina,,"Sydney, Australia",besselfunction@mail.ru,false,Talk is cheap.,28,105,3,2014-11-17T13:53:49Z
+diegogarciahuerta,Diego Garcia Huerta ,FACTOR64,Sydney,,false,"💾 VFX | Animation Pipeline and production tools developer.
+",20,105,40,2018-04-25T08:32:31Z
+RobinDong,Robin Dong,WOOLIESX,"Sydney, Australia",,true,"C/C++/Python developer
+Long-time experience in Machine Learning/Distributed System",32,104,12,2012-07-11T01:09:08Z
+danmackinlay,dan mackinlay,"SYNESTIZE, @CSIRO-MLAI",Sydney,,true,"Researcher in statistics, music, time series, simulation-based inference, mayhem.",54,104,80,2008-08-24T11:31:06Z
+mjbamford,Michael Bamford,MICHAEL BAMFORD,"Sydney, Australia",,true,,84,104,12,2008-12-09T04:51:18Z
+XertroV,Max Kaye,,Sydney,m@xk.io,false,Philosopher (Critical Fallibilism),375,104,28,2011-09-13T05:32:57Z
+RickyDivjakovski,Ricky Divjakovski,RDENGINEERING,"Sydney, Australia",ricky.divjakovski@gmail.com,true,Implementations/solutions,44,103,0,2013-04-08T03:14:42Z
+encryptededdy,Edward Zhang,,"Sydney, AU",edward@zhang.nz,false,Software Developer at some Australian Software Company (probably easy to find out),44,103,149,2015-02-07T11:35:36Z
+freshtonic,James Sadler,,"Sydney, Australia",freshtonic@gmail.com,false,,60,103,94,2008-03-10T21:01:27Z
+jkkummerfeld,Jonathan Kummerfeld,UNIVERSITY OF SYDNEY,"Sydney, NSW, Australia",,false,"I work on NLP as an Assistant Professor at Sydney and as a Startup Adviser;
+he/him",43,103,10,2012-01-02T01:02:14Z
+kiddkai,zekai,ATLASSIAN,Sydney,,true,码农,50,103,63,2012-01-06T10:10:09Z
+lihini223,Lihini Nisansala,UNIVERSITY OF TECHNOLOGY SYDNEY,"Sydney, Australia",lihininisansala2000@gmail.com,false,Postgraduate Data Science Student | UTS,102,103,143,2019-10-23T04:54:52Z
+kurisubrooks,Chris Brooks,,Sydney,,false,Designer/Developer,54,103,79,2013-12-31T06:37:15Z
+ftsf,impbox,IMPBOX GAMES,"Sydney, Australia",,true,"Indie Game Developer, Cat Photographer, former Sysadmin.",26,102,4,2009-10-19T02:39:13Z
+dhowden,David Howden,ALGOLIA (PREV @SAJARI),"Sydney, Australia",dhowden@gmail.com,false,,41,101,32,2008-03-11T15:58:04Z
+peterboyer,Peter Boyer,,"Sydney, Australia",,true,,20,101,24,2014-08-08T06:02:54Z
+tomitrescak,Tomas Trescak,WESTERN SYDNEY UNIVERSITY,"Sydney, Australia",,false,,184,101,2,2012-10-30T10:36:25Z
+chadluo,Chad Luo,CANVA,Sydney,,false,,68,101,57,2013-01-10T14:38:36Z
